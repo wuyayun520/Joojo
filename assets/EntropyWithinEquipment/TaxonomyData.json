@@ -1,0 +1,404 @@
+{
+  "users": [
+    {
+      "userId": "joojo1",
+      "username": "Alex_ArcadeMaster",
+      "displayName": "Alex Thompson",
+      "avatar": "assets/EntropyWithinEquipment/Joojo1/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo1/joojouserbg.webp",
+      "bio": "Street Fighter enthusiast | High score chaser | Arcade legend since 1995",
+      "location": "New York, USA",
+      "followers": 250,
+      "following": 340,
+      "post": {
+        "postId": "post_joojo1_001",
+        "video": "assets/EntropyWithinEquipment/Joojo1/joojovideo.mp4",
+        "title": "Street Fighter II Turbo - Perfect Combo!",
+        "description": "Just pulled off the perfect combo in SF2 Turbo! This game never gets old. Who else remembers spending hours at the arcade? 🎮🔥",
+        "likes": 234,
+        "game": "Street Fighter II Turbo",
+        "tags": ["arcade", "streetfighter", "retrogaming", "combo"]
+      }
+    },
+    {
+      "userId": "joojo2",
+      "username": "Maya_PacManQueen",
+      "displayName": "Maya Rodriguez",
+      "avatar": "assets/EntropyWithinEquipment/Joojo2/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo2/joojouserbg.webp",
+      "bio": "Pac-Man world record holder | Classic arcade collector | Gaming historian",
+      "location": "Los Angeles, USA",
+      "followers": 890,
+      "following": 156,
+      "post": {
+        "postId": "post_joojo2_001",
+        "video": "assets/EntropyWithinEquipment/Joojo2/joojovideo.mp4",
+        "title": "Pac-Man Championship - Level 10 Clear!",
+        "description": "Finally reached level 10 in Pac-Man Championship Edition! The speed is incredible but so satisfying. Classic arcade perfection! 👾💛",
+        "likes": 189,
+        "game": "Pac-Man Championship Edition",
+        "tags": ["pacman", "arcade", "classic", "highscore"]
+      }
+    },
+    {
+      "userId": "joojo3",
+      "username": "James_RetroGamer",
+      "displayName": "James Wilson",
+      "avatar": "assets/EntropyWithinEquipment/Joojo3/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo3/joojouserbg.webp",
+      "bio": "80s arcade games specialist | Time Crisis expert | Arcade cabinet restorer",
+      "location": "London, UK",
+      "followers": 100,
+      "following": 420,
+      "post": {
+        "postId": "post_joojo3_001",
+        "video": "assets/EntropyWithinEquipment/Joojo3/joojovideo.mp4",
+        "title": "Time Crisis 3 - No Damage Run!",
+        "description": "Managed a no-damage run on Time Crisis 3! The light gun mechanics are still unmatched. Pure arcade action! 🎯",
+        "likes": 312,
+        "game": "Time Crisis 3",
+        "tags": ["timecrisis", "arcade", "lightgun", "nostalgia"]
+      }
+    },
+    {
+      "userId": "joojo4",
+      "username": "Sophie_DanceDiva",
+      "displayName": "Sophie Chen",
+      "avatar": "assets/EntropyWithinEquipment/Joojo4/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo4/joojouserbg.webp",
+      "bio": "Dance Dance Revolution master | Rhythm game champion | Arcade dancer",
+      "location": "Tokyo, Japan",
+      "followers": 450,
+      "following": 280,
+      "post": {
+        "postId": "post_joojo4_001",
+        "video": "assets/EntropyWithinEquipment/Joojo4/joojovideo.mp4",
+        "title": "DDR Extreme - Perfect Score on Expert!",
+        "description": "Perfect score on DDR Extreme expert mode! My legs are exhausted but it's worth it. Dance games are the best workout! 💃🎵",
+        "likes": 456,
+        "game": "Dance Dance Revolution Extreme",
+        "tags": ["ddr", "dancedancerevolution", "rhythmgame", "arcade"]
+      }
+    },
+    {
+      "userId": "joojo5",
+      "username": "Mike_MortalKombat",
+      "displayName": "Mike Johnson",
+      "avatar": "assets/EntropyWithinEquipment/Joojo5/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo5/joojouserbg.webp",
+      "bio": "Mortal Kombat veteran | Fighting game tournament player | Arcade warrior",
+      "location": "Chicago, USA",
+      "followers": 780,
+      "following": 390,
+      "post": {
+        "postId": "post_joojo5_001",
+        "video": "assets/EntropyWithinEquipment/Joojo5/joojovideo.mp4",
+        "title": "Mortal Kombat II - Flawless Victory!",
+        "description": "Flawless victory with Sub-Zero! MK2 is still the best fighting game ever made. Classic arcade perfection! ❄️🥶",
+        "likes": 278,
+        "game": "Mortal Kombat II",
+        "tags": ["mortalkombat", "fightinggame", "arcade", "retro"]
+      }
+    },
+    {
+      "userId": "joojo6",
+      "username": "Emma_PinballWizard",
+      "displayName": "Emma Davis",
+      "avatar": "assets/EntropyWithinEquipment/Joojo6/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo6/joojouserbg.webp",
+      "bio": "Pinball machine collector | High score hunter | Arcade pinball wizard",
+      "location": "Melbourne, Australia",
+      "followers": 120,
+      "following": 210,
+      "post": {
+        "postId": "post_joojo6_001",
+        "video": "assets/EntropyWithinEquipment/Joojo6/joojovideo.mp4",
+        "title": "The Addams Family Pinball - Multi-Ball Madness!",
+        "description": "Multi-ball madness on The Addams Family pinball! This machine is a masterpiece. Nothing beats the sound of real pinball! ⚡",
+        "likes": 167,
+        "game": "The Addams Family Pinball",
+        "tags": ["pinball", "arcade", "classic", "retro"]
+      }
+    },
+    {
+      "userId": "joojo7",
+      "username": "David_TekkenKing",
+      "displayName": "David Kim",
+      "avatar": "assets/EntropyWithinEquipment/Joojo7/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo7/joojouserbg.webp",
+      "bio": "Tekken tournament champion | 3D fighting game expert | Arcade competitor",
+      "location": "Seoul, South Korea",
+      "followers": 890,
+      "following": 450,
+      "post": {
+        "postId": "post_joojo7_001",
+        "video": "assets/EntropyWithinEquipment/Joojo7/joojovideo.mp4",
+        "title": "Tekken 3 - King's Rage Art Combo!",
+        "description": "King's ultimate combo in Tekken 3! The 3D movement in this game changed fighting games forever. Still my favorite! 👊🐆",
+        "likes": 389,
+        "game": "Tekken 3",
+        "tags": ["tekken", "fightinggame", "arcade", "3dfighting"]
+      }
+    },
+    {
+      "userId": "joojo8",
+      "username": "Lisa_GalagaPro",
+      "displayName": "Lisa Anderson",
+      "avatar": "assets/EntropyWithinEquipment/Joojo8/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo8/joojouserbg.webp",
+      "bio": "Galaga high score record | Space shooter enthusiast | Classic arcade lover",
+      "location": "Stockholm, Sweden",
+      "followers": 980,
+      "following": 180,
+      "post": {
+        "postId": "post_joojo8_001",
+        "video": "assets/EntropyWithinEquipment/Joojo8/joojovideo.mp4",
+        "title": "Galaga - Dual Fighter Mode Activated!",
+        "description": "Dual fighter mode in Galaga! This is the ultimate power-up. Classic space shooter perfection from 1981! 🚀👾",
+        "likes": 201,
+        "game": "Galaga",
+        "tags": ["galaga", "arcade", "spaceshooter", "retro"]
+      }
+    },
+    {
+      "userId": "joojo9",
+      "username": "Ryan_RacingChamp",
+      "displayName": "Ryan O'Connor",
+      "avatar": "assets/EntropyWithinEquipment/Joojo9/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo9/joojouserbg.webp",
+      "bio": "Arcade racing game master | OutRun specialist | Driving game enthusiast",
+      "location": "Dublin, Ireland",
+      "followers": 450,
+      "following": 320,
+      "post": {
+        "postId": "post_joojo9_001",
+        "video": "assets/EntropyWithinEquipment/Joojo9/joojovideo.mp4",
+        "title": "OutRun - Perfect Run on Route A!",
+        "description": "Perfect run on OutRun Route A! The music, the graphics, the feel - this is arcade racing at its finest! 🏎️💨",
+        "likes": 245,
+        "game": "OutRun",
+        "tags": ["outrun", "racing", "arcade", "retro"]
+      }
+    },
+    {
+      "userId": "joojo10",
+      "username": "Nina_ShooterQueen",
+      "displayName": "Nina Petrov",
+      "avatar": "assets/EntropyWithinEquipment/Joojo10/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo10/joojouserbg.webp",
+      "bio": "House of the Dead expert | Light gun game master | Zombie shooter champion",
+      "location": "Moscow, Russia",
+      "followers": 670,
+      "following": 290,
+      "post": {
+        "postId": "post_joojo10_001",
+        "video": "assets/EntropyWithinEquipment/Joojo10/joojovideo.mp4",
+        "title": "House of the Dead 2 - Perfect Accuracy Run!",
+        "description": "Perfect accuracy run on House of the Dead 2! The light gun gameplay is so satisfying. Zombies beware! 🧟",
+        "likes": 298,
+        "game": "House of the Dead 2",
+        "tags": ["houseofthedead", "lightgun", "arcade", "shooter"]
+      }
+    },
+    {
+      "userId": "joojo11",
+      "username": "Tom_NeoGeoFan",
+      "displayName": "Tom Brown",
+      "avatar": "assets/EntropyWithinEquipment/Joojo11/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo11/joojouserbg.webp",
+      "bio": "Neo Geo collector | Metal Slug speedrunner | SNK arcade games expert",
+      "location": "Manchester, UK",
+      "followers": 230,
+      "following": 380,
+      "post": {
+        "postId": "post_joojo11_001",
+        "video": "assets/EntropyWithinEquipment/Joojo11/joojovideo.mp4",
+        "title": "Metal Slug 3 - No Death Run!",
+        "description": "No death run on Metal Slug 3! The sprite work in this game is absolutely incredible. SNK at their finest! 🎮",
+        "likes": 367,
+        "game": "Metal Slug 3",
+        "tags": ["metalslug", "neogeo", "arcade", "runandgun"]
+      }
+    },
+    {
+      "userId": "joojo12",
+      "username": "Anna_BubbleBobble",
+      "displayName": "Anna Schmidt",
+      "avatar": "assets/EntropyWithinEquipment/Joojo12/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo12/joojouserbg.webp",
+      "bio": "Bubble Bobble master | Puzzle game lover | Cute arcade games collector",
+      "location": "Berlin, Germany",
+      "followers": 340,
+      "following": 250,
+      "post": {
+        "postId": "post_joojo12_001",
+        "video": "assets/EntropyWithinEquipment/Joojo12/joojovideo.mp4",
+        "title": "Bubble Bobble - Co-op Perfect Clear!",
+        "description": "Co-op perfect clear with my friend! Bubble Bobble is the cutest arcade game ever. The music is so catchy! 🫧🐉",
+        "likes": 189,
+        "game": "Bubble Bobble",
+        "tags": ["bubblebobble", "arcade", "puzzlegame", "coop"]
+      }
+    },
+    {
+      "userId": "joojo13",
+      "username": "Chris_VirtuaFighter",
+      "displayName": "Chris Martinez",
+      "avatar": "assets/EntropyWithinEquipment/Joojo13/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo13/joojouserbg.webp",
+      "bio": "Virtua Fighter champion | 3D fighting pioneer | Sega arcade games expert",
+      "location": "Barcelona, Spain",
+      "followers": 980,
+      "following": 360,
+      "post": {
+        "postId": "post_joojo13_001",
+        "video": "assets/EntropyWithinEquipment/Joojo13/joojovideo.mp4",
+        "title": "Virtua Fighter 2 - Akira's Combo Mastery!",
+        "description": "Akira's combo mastery in Virtua Fighter 2! This game revolutionized 3D fighting. Sega's arcade legacy is unmatched! 🥋⚔️",
+        "likes": 312,
+        "game": "Virtua Fighter 2",
+        "tags": ["virtuafighter", "sega", "arcade", "3dfighting"]
+      }
+    },
+    {
+      "userId": "joojo14",
+      "username": "Sarah_ShootingStar",
+      "displayName": "Sarah Taylor",
+      "avatar": "assets/EntropyWithinEquipment/Joojo14/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo14/joojouserbg.webp",
+      "bio": "Shoot 'em up specialist | Ikaruga master | Bullet hell enthusiast",
+      "location": "Toronto, Canada",
+      "followers": 560,
+      "following": 410,
+      "post": {
+        "postId": "post_joojo14_001",
+        "video": "assets/EntropyWithinEquipment/Joojo14/joojovideo.mp4",
+        "title": "Ikaruga - Perfect Polarity Switching!",
+        "description": "Perfect polarity switching in Ikaruga! This bullet hell game is pure art. The black and white mechanic is genius! ⚫⚪",
+        "likes": 423,
+        "game": "Ikaruga",
+        "tags": ["ikaruga", "shmup", "arcade", "bullethell"]
+      }
+    },
+    {
+      "userId": "joojo15",
+      "username": "Ben_KingOfFighters",
+      "displayName": "Ben Lee",
+      "avatar": "assets/EntropyWithinEquipment/Joojo15/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo15/joojouserbg.webp",
+      "bio": "King of Fighters expert | Team battle specialist | SNK fighting games master",
+      "location": "Singapore",
+      "followers": 120,
+      "following": 480,
+      "post": {
+        "postId": "post_joojo15_001",
+        "video": "assets/EntropyWithinEquipment/Joojo15/joojovideo.mp4",
+        "title": "King of Fighters '98 - Team Combo Finish!",
+        "description": "Team combo finish in KOF '98! The team system in this game is perfect. SNK fighting games are legendary! 👑👊",
+        "likes": 489,
+        "game": "King of Fighters '98",
+        "tags": ["kingoffighters", "kof", "snk", "arcade"]
+      }
+    },
+    {
+      "userId": "joojo16",
+      "username": "Olivia_MarvelVsCapcom",
+      "displayName": "Olivia White",
+      "avatar": "assets/EntropyWithinEquipment/Joojo16/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo16/joojouserbg.webp",
+      "bio": "Marvel vs Capcom champion | Tag team fighter | Capcom crossover expert",
+      "location": "Sydney, Australia",
+      "followers": 750,
+      "following": 440,
+      "post": {
+        "postId": "post_joojo16_001",
+        "video": "assets/EntropyWithinEquipment/Joojo16/joojovideo.mp4",
+        "title": "Marvel vs Capcom 2 - Infinite Combo!",
+        "description": "Infinite combo in MvC2! This game is pure chaos and I love it. The tag team mechanics are incredible! 🦸‍♀️🦸‍♂️",
+        "likes": 512,
+        "game": "Marvel vs Capcom 2",
+        "tags": ["marvelvscapcom", "mvc2", "capcom", "arcade"]
+      }
+    },
+    {
+      "userId": "joojo17",
+      "username": "Jack_InitialD",
+      "displayName": "Jack Murphy",
+      "avatar": "assets/EntropyWithinEquipment/Joojo17/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo17/joojouserbg.webp",
+      "bio": "Initial D arcade racer | Drift master | Sega racing games expert",
+      "location": "Dublin, Ireland",
+      "followers": 890,
+      "following": 330,
+      "post": {
+        "postId": "post_joojo17_001",
+        "video": "assets/EntropyWithinEquipment/Joojo17/joojovideo.mp4",
+        "title": "Initial D Arcade Stage - Perfect Drift!",
+        "description": "Perfect drift on Akina downhill! Initial D arcade stage is the best racing game. Eurobeat music makes it perfect! 🏎️💨",
+        "likes": 334,
+        "game": "Initial D Arcade Stage",
+        "tags": ["initiald", "racing", "sega", "arcade"]
+      }
+    },
+    {
+      "userId": "joojo18",
+      "username": "Emma_BeatEmUp",
+      "displayName": "Emma Garcia",
+      "avatar": "assets/EntropyWithinEquipment/Joojo18/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo18/joojouserbg.webp",
+      "bio": "Beat 'em up specialist | Streets of Rage master | Co-op arcade games lover",
+      "location": "Madrid, Spain",
+      "followers": 420,
+      "following": 270,
+      "post": {
+        "postId": "post_joojo18_001",
+        "video": "assets/EntropyWithinEquipment/Joojo18/joojovideo.mp4",
+        "title": "Streets of Rage 2 - Co-op Perfect Run!",
+        "description": "Co-op perfect run on Streets of Rage 2! The best beat 'em up ever made. Yuzo Koshiro's soundtrack is legendary! 👊🎵",
+        "likes": 267,
+        "game": "Streets of Rage 2",
+        "tags": ["streetsofrage", "beatemup", "sega", "arcade"]
+      }
+    },
+    {
+      "userId": "joojo19",
+      "username": "Lucas_SpaceHarrier",
+      "displayName": "Lucas Silva",
+      "avatar": "assets/EntropyWithinEquipment/Joojo19/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo19/joojouserbg.webp",
+      "bio": "Space Harrier enthusiast | 3D arcade pioneer | Sega classic games collector",
+      "location": "São Paulo, Brazil",
+      "followers": 680,
+      "following": 310,
+      "post": {
+        "postId": "post_joojo19_001",
+        "video": "assets/EntropyWithinEquipment/Joojo19/joojovideo.mp4",
+        "title": "Space Harrier - Zone 5 Perfect Clear!",
+        "description": "Zone 5 perfect clear in Space Harrier! This 3D arcade classic is still mind-blowing. Welcome to the fantasy zone! 🚀🌌",
+        "likes": 289,
+        "game": "Space Harrier",
+        "tags": ["spaceharrier", "sega", "arcade", "3d"]
+      }
+    },
+    {
+      "userId": "joojo20",
+      "username": "Zoe_RetroArcade",
+      "displayName": "Zoe Anderson",
+      "avatar": "assets/EntropyWithinEquipment/Joojo20/joojouser.webp",
+      "background": "assets/EntropyWithinEquipment/Joojo20/joojouserbg.webp",
+      "bio": "Retro arcade games collector | Donkey Kong expert | Classic arcade preservationist",
+      "location": "Portland, USA",
+      "followers": 30,
+      "following": 370,
+      "post": {
+        "postId": "post_joojo20_001",
+        "video": "assets/EntropyWithinEquipment/Joojo20/joojovideo.mp4",
+        "title": "Donkey Kong - Level 4 Perfect Run!",
+        "description": "Level 4 perfect run on Donkey Kong! This is where it all began. The grandfather of arcade games. Jumpman forever! 🦍🍌",
+        "likes": 356,
+        "game": "Donkey Kong",
+        "tags": ["donkeykong", "nintendo", "arcade", "classic"]
+      }
+    }
+  ]
+}
