@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFrameworkHue</key>
+	<string>statelessThroughTier</string>
+	<key>certificateAndVisitor</key>
+	<string>radioValuePadding</string>
+	<key>deferredFramePadding</key>
+	<string>viewOperationAcceleration</string>
+	<key>fusedSubpixelVisibility</key>
+	<string>inheritedSegmentVisible</string>
+	<key>queryBesideComposite</key>
+	<string>tappableMobxTint</string>
+	<key>uniformLabelTop</key>
+	<string>responseMementoFeedback</string>
+</dict>
+</plist>

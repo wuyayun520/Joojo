@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBridgeResponse</key>
+	<string>resilientChartAcceleration</string>
+	<key>cardVisitorInterval</key>
+	<string>keyNormOpacity</string>
+	<key>customDialogsStyle</key>
+	<string>metadataCommandSpeed</string>
+	<key>frameBesideScope</key>
+	<string>intermediateCursorFlags</string>
+	<key>hardGesturedetectorResponse</key>
+	<string>imageCompositeResponse</string>
+	<key>inkwellInsideKind</key>
+	<string>directlySlashOpacity</string>
+	<key>layerSystemVisibility</key>
+	<string>isolateBufferTop</string>
+	<key>logUntilMediator</key>
+	<string>resolverAgainstEnvironment</string>
+	<key>textByKind</key>
+	<string>disabledGramDistance</string>
+</dict>
+</plist>

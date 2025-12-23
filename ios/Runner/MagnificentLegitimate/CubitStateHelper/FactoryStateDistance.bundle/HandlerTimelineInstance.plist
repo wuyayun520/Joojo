@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorInTier</key>
+	<string>binaryTaskCoord</string>
+	<key>callbackDespiteForm</key>
+	<string>keyDialogsInteraction</string>
+	<key>decorationMethodContrast</key>
+	<string>agileParticleCoord</string>
+	<key>deferredAssetResponse</key>
+	<string>missedFeatureValidation</string>
+	<key>directlyDescriptionVisibility</key>
+	<string>tickerStrategyState</string>
+	<key>effectCycleTop</key>
+	<string>entropyLikeVar</string>
+	<key>liteBoxshadowOpacity</key>
+	<string>otherUtilHue</string>
+	<key>routerTempleFrequency</key>
+	<string>responsiveContainerRight</string>
+</dict>
+</plist>

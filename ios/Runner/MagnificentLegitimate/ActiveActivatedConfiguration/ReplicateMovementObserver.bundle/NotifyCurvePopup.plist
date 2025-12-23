@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCatalystShade</key>
+	<string>plateLevelDelay</string>
+	<key>lastDelegateOrientation</key>
+	<string>workflowParameterShade</string>
+	<key>modelParamContrast</key>
+	<string>desktopDimensionTint</string>
+	<key>navigatorShapeOpacity</key>
+	<string>specifyAnimationVisible</string>
+	<key>threadProxyForce</key>
+	<string>cartesianAccessorySkewx</string>
+	<key>timerAlongComposite</key>
+	<string>providerInsideAction</string>
+</dict>
+</plist>

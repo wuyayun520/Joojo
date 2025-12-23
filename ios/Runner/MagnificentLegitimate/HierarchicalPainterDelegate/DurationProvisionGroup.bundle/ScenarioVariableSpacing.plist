@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerFacadeShape</key>
+	<string>segmentThroughStage</string>
+	<key>boxshadowLevelEdge</key>
+	<string>firstScrollCenter</string>
+	<key>compositionalBufferCount</key>
+	<string>advancedGrayscaleOffset</string>
+	<key>decorationVarStatus</key>
+	<string>alphaOfType</string>
+	<key>expandedForDecorator</key>
+	<string>unsortedCheckboxInteraction</string>
+	<key>hardRemainderEdge</key>
+	<string>autoWorkflowAcceleration</string>
+	<key>immediateCursorBound</key>
+	<string>unsortedSizedboxTag</string>
+	<key>presenterSinceStructure</key>
+	<string>accessoryFunctionCenter</string>
+	<key>requestParameterState</key>
+	<string>resolverVersusForm</string>
+	<key>specifyResourceTheme</key>
+	<string>deferredEntityTransparency</string>
+</dict>
+</plist>

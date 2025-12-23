@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclePlatformFrequency</key>
+	<string>challengeExceptVariable</string>
+	<key>progressbarOutsideForm</key>
+	<string>heapFromBuffer</string>
+	<key>routeThanMode</key>
+	<string>permissiveAsyncDelay</string>
+	<key>scrollNearForm</key>
+	<string>publicKernelSkewy</string>
+	<key>timerAroundState</key>
+	<string>lastFutureMomentum</string>
+	<key>vectorFlyweightVisible</key>
+	<string>dialogsBesideComposite</string>
+	<key>webListenerVisible</key>
+	<string>behaviorFrameworkState</string>
+</dict>
+</plist>

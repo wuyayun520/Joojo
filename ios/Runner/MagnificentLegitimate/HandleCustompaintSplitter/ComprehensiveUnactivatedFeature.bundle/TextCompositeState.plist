@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureAroundVar</key>
+	<string>sharedEffectTag</string>
+	<key>decorationByShape</key>
+	<string>widgetOrChain</string>
+	<key>inkwellSinceStrategy</key>
+	<string>widgetProcessVelocity</string>
+	<key>isolatePhaseLocation</key>
+	<string>directResolverInterval</string>
+	<key>smartFlexOffset</key>
+	<string>listviewDespiteStructure</string>
+	<key>sortedSubscriptionSpeed</key>
+	<string>interfaceNumberCount</string>
+	<key>storageValueName</key>
+	<string>sustainableScrollPosition</string>
+</dict>
+</plist>

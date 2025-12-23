@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAsFunction</key>
+	<string>profileEnvironmentType</string>
+	<key>customNavigatorContrast</key>
+	<string>pinchableCupertinoTheme</string>
+	<key>dependencyFromPlatform</key>
+	<string>eventIncludeAdapter</string>
+	<key>eagerSemanticsSaturation</key>
+	<string>hierarchicalLogAlignment</string>
+	<key>explicitOffsetHead</key>
+	<string>usedModelFlags</string>
+	<key>localizationActionFrequency</key>
+	<string>methodInsideInterpreter</string>
+	<key>mobileInSystem</key>
+	<string>uniformPresenterCenter</string>
+	<key>permissiveLocalizationStatus</key>
+	<string>fragmentAmongState</string>
+	<key>scaffoldByTemple</key>
+	<string>typicalStateValidation</string>
+</dict>
+</plist>

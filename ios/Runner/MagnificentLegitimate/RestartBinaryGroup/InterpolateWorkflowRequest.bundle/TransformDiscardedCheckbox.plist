@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableFlexTail</key>
+	<string>diffableButtonTint</string>
+	<key>instructionPatternVelocity</key>
+	<string>storeOfVar</string>
+	<key>semanticReductionAcceleration</key>
+	<string>difficultBaselineFeedback</string>
+	<key>smartOffsetInteraction</key>
+	<string>zoneStageSpeed</string>
+	<key>substantialRowPadding</key>
+	<string>associatedAnimationOffset</string>
+</dict>
+</plist>

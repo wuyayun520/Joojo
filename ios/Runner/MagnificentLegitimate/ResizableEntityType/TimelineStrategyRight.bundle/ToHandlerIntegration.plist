@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAndComposite</key>
+	<string>statelessViewColor</string>
+	<key>batchModeSaturation</key>
+	<string>spriteAmongValue</string>
+	<key>checklistVarCoord</key>
+	<string>controllerFormOpacity</string>
+	<key>handlerOperationBorder</key>
+	<string>assetPerTask</string>
+	<key>hyperbolicHistogramHead</key>
+	<string>rapidMethodDepth</string>
+	<key>nodeIncludeValue</key>
+	<string>plateCommandScale</string>
+	<key>progressbarInCommand</key>
+	<string>constEffectOrientation</string>
+	<key>responseNumberResponse</key>
+	<string>queueByVariable</string>
+</dict>
+</plist>

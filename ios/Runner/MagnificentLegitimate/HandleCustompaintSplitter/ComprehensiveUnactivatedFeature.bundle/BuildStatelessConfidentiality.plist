@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncQueryBorder</key>
+	<string>sizeExceptTask</string>
+	<key>buttonFromCycle</key>
+	<string>resilientCompletionContrast</string>
+	<key>configurationStrategyOpacity</key>
+	<string>newestSizeTail</string>
+	<key>localizationWithStructure</key>
+	<string>radioBufferColor</string>
+	<key>offsetAwayType</key>
+	<string>brushWithFunction</string>
+	<key>pinchableMomentumBound</key>
+	<string>secondControllerLocation</string>
+	<key>progressbarStrategyBehavior</key>
+	<string>basicMatrixMode</string>
+	<key>providerBufferAppearance</key>
+	<string>cubitPerState</string>
+	<key>touchStageResponse</key>
+	<string>descriptionMethodTail</string>
+</dict>
+</plist>

@@ -3,8 +3,11 @@ import 'package:joojo/models/community_user.dart';
 import 'package:joojo/services/community_service.dart';
 import 'package:joojo/services/like_service.dart';
 import 'package:joojo/services/follow_service.dart';
+import 'package:joojo/services/coin_service.dart';
 import 'package:joojo/screens/user_profile_screen.dart';
 import 'package:joojo/screens/joojo_chat_screen.dart';
+import 'package:joojo/screens/joojo_wallet_screen.dart';
+import '../theme/app_theme.dart';
 
 class CommunityScreen extends StatefulWidget {
   const CommunityScreen({super.key});
@@ -18,10 +21,13 @@ class _CommunityScreenState extends State<CommunityScreen> {
   final CommunityService _communityService = CommunityService();
   final LikeService _likeService = LikeService();
   final FollowService _followService = FollowService();
+  final CoinService _coinService = CoinService();
   List<CommunityUser> _users = [];
   bool _isLoading = true;
   Set<String> _likedPosts = {};
   Set<String> _followedUsers = {};
+  Set<String> _unlockedUsers = {};
+  int _coins = 0;
 
   final List<String> _typeImages = [
     'assets/type/joojo_type1_nor.webp',
@@ -43,6 +49,8 @@ class _CommunityScreenState extends State<CommunityScreen> {
     _loadUsers();
     _loadLikedPosts();
     _loadFollowedUsers();
+    _loadUnlockedUsers();
+    _loadCoins();
   }
 
   Future<void> _loadUsers() async {
@@ -61,6 +69,20 @@ class _CommunityScreenState extends State<CommunityScreen> {
     final followedUsers = await _followService.getFollowedUsers();
     setState(() {
       _followedUsers = followedUsers;
+    });
+  }
+
+  Future<void> _loadUnlockedUsers() async {
+    final unlockedUsers = await _coinService.getUnlockedUsers();
+    setState(() {
+      _unlockedUsers = unlockedUsers;
+    });
+  }
+
+  Future<void> _loadCoins() async {
+    final coins = await _coinService.getCoins();
+    setState(() {
+      _coins = coins;
     });
   }
 
@@ -185,15 +207,151 @@ class _CommunityScreenState extends State<CommunityScreen> {
     );
   }
 
-  Widget _buildUserCard(CommunityUser user) {
-    return GestureDetector(
-      onTap: () {
-        Navigator.of(context).push(
+  Future<void> _handleUserTap(CommunityUser user) async {
+    // 检查是否已解锁
+    if (_unlockedUsers.contains(user.userId)) {
+      // 已解锁，直接跳转
+      Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => UserProfileScreen(user: user),
+        ),
+      );
+      return;
+    }
+
+    // 重新获取最新金币余额
+    await _loadCoins();
+
+    // 检查金币是否足够
+    if (_coins < _coinService.unlockCost) {
+      // 金币不足，显示提示并跳转到钱包页面
+      final shouldRecharge = await showDialog<bool>(
+        context: context,
+        builder: (context) => AlertDialog(
+          backgroundColor: const Color(0xFF2D1B4E),
+          title: const Text(
+            'Insufficient Coins',
+            style: TextStyle(color: Colors.white),
+          ),
+          content: Text(
+            'You need ${_coinService.unlockCost} coins to unlock this user. Your current balance is $_coins coins. Go to recharge?',
+            style: const TextStyle(color: Colors.white70),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(color: Colors.white70),
+              ),
+            ),
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              child: Text(
+                'Recharge',
+                style: TextStyle(color: AppTheme.primaryColor),
+              ),
+            ),
+          ],
+        ),
+      );
+
+      if (shouldRecharge == true) {
+        await Navigator.of(context).push(
           MaterialPageRoute(
-            builder: (context) => UserProfileScreen(user: user),
+            builder: (context) => const WalletScreen(),
           ),
         );
-      },
+        // 从钱包页面返回后，重新加载金币
+        await _loadCoins();
+      }
+      return;
+    }
+
+    // 显示确认对话框
+    final confirmed = await showDialog<bool>(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: const Color(0xFF2D1B4E),
+        title: const Text(
+          'Unlock User',
+          style: TextStyle(color: Colors.white),
+        ),
+        content: Text(
+          'Unlock ${user.displayName} for ${_coinService.unlockCost} coins?',
+          style: const TextStyle(color: Colors.white70),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(false),
+            child: const Text(
+              'Cancel',
+              style: TextStyle(color: Colors.white70),
+            ),
+          ),
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(true),
+            child: Text(
+              'Confirm',
+              style: TextStyle(color: AppTheme.primaryColor),
+            ),
+          ),
+        ],
+      ),
+    );
+
+    // 如果用户取消，直接返回
+    if (confirmed != true) {
+      return;
+    }
+
+    // 解锁用户
+    final success = await _coinService.unlockUser(user.userId);
+    if (success) {
+      // 更新本地状态
+      setState(() {
+        _unlockedUsers.add(user.userId);
+        _coins -= _coinService.unlockCost;
+      });
+
+      // 显示提示信息
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Unlocked! -${_coinService.unlockCost} Coins'),
+            backgroundColor: AppTheme.primaryColor,
+            behavior: SnackBarBehavior.floating,
+            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+            duration: const Duration(seconds: 2),
+          ),
+        );
+      }
+
+      // 跳转到用户详情页
+      Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => UserProfileScreen(user: user),
+        ),
+      );
+    } else {
+      // 解锁失败，显示错误提示
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: const Text('Failed to unlock user'),
+            backgroundColor: Colors.red,
+            behavior: SnackBarBehavior.floating,
+            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+            duration: const Duration(seconds: 2),
+          ),
+        );
+      }
+    }
+  }
+
+  Widget _buildUserCard(CommunityUser user) {
+    return GestureDetector(
+      onTap: () => _handleUserTap(user),
       child: Container(
         margin: const EdgeInsets.only(bottom: 16),
         height: 200,

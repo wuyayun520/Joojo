@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeTransitionDelay</key>
+	<string>challengeActionLeft</string>
+	<key>discardedRouterDuration</key>
+	<string>layerContextOrigin</string>
+	<key>easyDecorationVelocity</key>
+	<string>activeWidgetRotation</string>
+	<key>hierarchicalDependencySkewy</key>
+	<string>mainTitleRotation</string>
+	<key>localizationByActivity</key>
+	<string>eagerDurationCount</string>
+	<key>rowFlyweightFlags</key>
+	<string>collectionIncludePrototype</string>
+	<key>sequentialCubitMargin</key>
+	<string>specifyOffsetVelocity</string>
+	<key>tappableMethodSize</key>
+	<string>resourceAboutType</string>
+	<key>timerSinceNumber</key>
+	<string>operationFrameworkLeft</string>
+	<key>titleBySystem</key>
+	<string>themeVersusDecorator</string>
+</dict>
+</plist>

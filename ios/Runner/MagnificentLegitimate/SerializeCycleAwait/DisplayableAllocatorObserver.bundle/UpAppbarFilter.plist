@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAdapterPosition</key>
+	<string>resourceVisitorContrast</string>
+	<key>greatPaddingMargin</key>
+	<string>normSystemColor</string>
+	<key>lostBaselineCount</key>
+	<string>protectedBaseSaturation</string>
+	<key>nativeAlertShape</key>
+	<string>precisionBridgeDuration</string>
+	<key>offsetWorkTint</key>
+	<string>radiusMethodBorder</string>
+	<key>priorEqualizationMode</key>
+	<string>masterTypeTop</string>
+</dict>
+</plist>

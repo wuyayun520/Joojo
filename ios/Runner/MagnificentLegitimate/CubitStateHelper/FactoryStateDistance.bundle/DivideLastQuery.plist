@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandPatternDepth</key>
+	<string>arithmeticDecorationFlags</string>
+	<key>consultativeNotifierShade</key>
+	<string>asynchronousBuilderInset</string>
+	<key>globalEffectHue</key>
+	<string>normProcessEdge</string>
+	<key>mapVarOpacity</key>
+	<string>musicObserverVisible</string>
+	<key>menuSingletonOrientation</key>
+	<string>timerFormSkewx</string>
+	<key>multiProgressbarForce</key>
+	<string>advancedButtonFlags</string>
+	<key>nibForMemento</key>
+	<string>profileTempleFrequency</string>
+	<key>semanticDelegateCenter</key>
+	<string>keyDecorationSkewy</string>
+	<key>temporaryInjectionEdge</key>
+	<string>unaryAsFacade</string>
+</dict>
+</plist>

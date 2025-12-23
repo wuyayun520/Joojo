@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFrameworkEdge</key>
+	<string>dynamicChartPosition</string>
+	<key>animationAgainstState</key>
+	<string>prevObserverSpeed</string>
+	<key>gestureExceptTask</key>
+	<string>serviceOperationPadding</string>
+	<key>inheritedChecklistRight</key>
+	<string>unsortedLayoutDepth</string>
+	<key>invisibleDropdownbuttonCoord</key>
+	<string>errorPrototypeBehavior</string>
+	<key>menuInsideChain</key>
+	<string>routerAroundBridge</string>
+	<key>otherSwitchDirection</key>
+	<string>nodeAtSystem</string>
+</dict>
+</plist>

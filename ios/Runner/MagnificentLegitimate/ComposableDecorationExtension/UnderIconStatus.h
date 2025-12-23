@@ -1,0 +1,18 @@
+#import "SwiftRequestAdapter.h"
+#import "ImageRadiusFactory.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface UnderIconStatus : NSObject
+
+
+- (void) unmountEncapsulateFromEquipment;
+
+- (void) regulateUniqueModal;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

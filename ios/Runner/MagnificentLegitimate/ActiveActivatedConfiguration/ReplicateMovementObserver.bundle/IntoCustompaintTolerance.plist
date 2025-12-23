@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectKindVisibility</key>
+	<string>memberContextDuration</string>
+	<key>masterKindSpacing</key>
+	<string>serviceCycleAlignment</string>
+	<key>paddingInsideCycle</key>
+	<string>mediaAtMediator</string>
+	<key>reductionKindHue</key>
+	<string>adaptiveProgressbarDirection</string>
+	<key>scaleAlongMediator</key>
+	<string>heapOrParam</string>
+	<key>viewIncludeParameter</key>
+	<string>adaptiveSceneDensity</string>
+</dict>
+</plist>

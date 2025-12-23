@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalWorkflowHue</key>
+	<string>usageAdapterOrientation</string>
+	<key>decorationParamRotation</key>
+	<string>largeDocumentOrientation</string>
+	<key>handlerScopeInterval</key>
+	<string>usecaseContextOffset</string>
+	<key>histogramExceptPrototype</key>
+	<string>associatedMatrixValidation</string>
+	<key>instructionUntilOperation</key>
+	<string>activityBesidePattern</string>
+	<key>menuDuringBridge</key>
+	<string>queryInsidePrototype</string>
+	<key>priorityWorkSpeed</key>
+	<string>textfieldAndPlatform</string>
+	<key>tweenViaDecorator</key>
+	<string>popupAsBuffer</string>
+</dict>
+</plist>

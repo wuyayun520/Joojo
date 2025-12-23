@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnViaKind</key>
+	<string>iconIncludeScope</string>
+	<key>enabledWidgetOrigin</key>
+	<string>hardRolePressure</string>
+	<key>graphicSingletonVelocity</key>
+	<string>histogramAlongPlatform</string>
+	<key>navigationLayerInteraction</key>
+	<string>reusablePositionedHue</string>
+	<key>resourceThroughMediator</key>
+	<string>priorTaskMode</string>
+	<key>roleParamDensity</key>
+	<string>activatedChartTint</string>
+	<key>seamlessTabviewAppearance</key>
+	<string>logarithmPlatformRate</string>
+	<key>statefulChapterDensity</key>
+	<string>deferredEntityBehavior</string>
+	<key>textfieldAtPhase</key>
+	<string>cubitStrategyDelay</string>
+	<key>typicalStorageScale</key>
+	<string>screenFunctionMode</string>
+</dict>
+</plist>

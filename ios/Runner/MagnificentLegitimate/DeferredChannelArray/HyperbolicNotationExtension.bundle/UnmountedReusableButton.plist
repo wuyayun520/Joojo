@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicHashRate</key>
+	<string>localizationVersusWork</string>
+	<key>consumerEnvironmentCoord</key>
+	<string>parallelFragmentSkewx</string>
+	<key>flexibleMediaqueryTop</key>
+	<string>screenStagePressure</string>
+	<key>mutableMediaqueryValidation</key>
+	<string>grayscaleSystemName</string>
+	<key>unactivatedServiceBound</key>
+	<string>disabledListenerRight</string>
+	<key>widgetOperationAlignment</key>
+	<string>firstRepositorySize</string>
+</dict>
+</plist>

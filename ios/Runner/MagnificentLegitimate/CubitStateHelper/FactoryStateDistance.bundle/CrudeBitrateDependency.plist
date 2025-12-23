@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncNormStyle</key>
+	<string>cubitInsideParam</string>
+	<key>coordinatorIncludeInterpreter</key>
+	<string>musicLayerMode</string>
+	<key>drawerDuringInterpreter</key>
+	<string>particleMediatorDepth</string>
+	<key>ephemeralRowRate</key>
+	<string>independentTopicSaturation</string>
+	<key>eventCompositeKind</key>
+	<string>standaloneModalOrientation</string>
+	<key>heroOrContext</key>
+	<string>denseThreadAlignment</string>
+	<key>rapidBlocPadding</key>
+	<string>customHashInteraction</string>
+	<key>routeAmongFunction</key>
+	<string>popupTierOrigin</string>
+	<key>substantialIconFormat</key>
+	<string>parallelTitleTop</string>
+</dict>
+</plist>

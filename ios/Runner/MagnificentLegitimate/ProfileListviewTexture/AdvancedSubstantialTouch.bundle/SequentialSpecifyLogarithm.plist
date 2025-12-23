@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFromActivity</key>
+	<string>imageMementoTop</string>
+	<key>compositionalControllerMode</key>
+	<string>pivotalSliderCenter</string>
+	<key>gradientOperationBound</key>
+	<string>stateOrVariable</string>
+	<key>isolateWithProxy</key>
+	<string>providerAdapterCoord</string>
+	<key>memberContextDepth</key>
+	<string>commandStyleFrequency</string>
+	<key>missedEventDistance</key>
+	<string>containerAsVar</string>
+	<key>navigatorFromStyle</key>
+	<string>keyQueueDistance</string>
+	<key>reducerProcessVisibility</key>
+	<string>unsortedTweenDistance</string>
+	<key>sampleAroundFacade</key>
+	<string>taskVariableDirection</string>
+	<key>timerFacadeAcceleration</key>
+	<string>indicatorKindBehavior</string>
+</dict>
+</plist>

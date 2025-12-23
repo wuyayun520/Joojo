@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasValueContrast</key>
+	<string>publicGraphDirection</string>
+	<key>concurrentScaleTransparency</key>
+	<string>accessibleWidgetStatus</string>
+	<key>cupertinoSymbolInteraction</key>
+	<string>builderPhaseIndex</string>
+	<key>loopBufferOffset</key>
+	<string>associatedHashBehavior</string>
+	<key>managerAgainstValue</key>
+	<string>documentParamBehavior</string>
+	<key>segueStyleCoord</key>
+	<string>navigatorMediatorTail</string>
+	<key>sophisticatedTextVisible</key>
+	<string>futureAroundOperation</string>
+	<key>tweenContainAdapter</key>
+	<string>assetActivityKind</string>
+</dict>
+</plist>

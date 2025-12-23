@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTabviewDirection</key>
+	<string>constraintVarVisibility</string>
+	<key>channelContainBridge</key>
+	<string>transitionMediatorMode</string>
+	<key>dynamicDelegateMargin</key>
+	<string>criticalPopupCount</string>
+	<key>modalTypeSpeed</key>
+	<string>lazyKernelPressure</string>
+	<key>rowFromMethod</key>
+	<string>delegateByScope</string>
+	<key>symmetricEventCount</key>
+	<string>discardedResourceTension</string>
+	<key>vectorFromTemple</key>
+	<string>temporaryPopupForce</string>
+</dict>
+</plist>

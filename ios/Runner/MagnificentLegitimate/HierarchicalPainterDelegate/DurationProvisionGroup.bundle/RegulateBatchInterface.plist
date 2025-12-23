@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientSystemSize</key>
+	<string>widgetAlongPhase</string>
+	<key>inkwellWithObserver</key>
+	<string>listenerAlongComposite</string>
+	<key>nodeStrategyAlignment</key>
+	<string>autoPlaybackForce</string>
+	<key>notifierNearMemento</key>
+	<string>cubeObserverTransparency</string>
+	<key>particleProcessBottom</key>
+	<string>fragmentOrLevel</string>
+	<key>resizableCycleSkewx</key>
+	<string>accessibleSampleVisibility</string>
+</dict>
+</plist>

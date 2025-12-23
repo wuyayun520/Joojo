@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellContextMode</key>
+	<string>clipperShapeVisible</string>
+	<key>directAlphaRight</key>
+	<string>layerOfLevel</string>
+	<key>independentTransformerBorder</key>
+	<string>customConfigurationRate</string>
+	<key>indicatorCompositeTag</key>
+	<string>eventInsideMediator</string>
+	<key>mobileCatalystDensity</key>
+	<string>interfaceVersusLayer</string>
+	<key>themeBufferFormat</key>
+	<string>relationalExponentRate</string>
+	<key>tickerOfValue</key>
+	<string>gateBufferFormat</string>
+	<key>viewPrototypeSaturation</key>
+	<string>lossExceptType</string>
+</dict>
+</plist>

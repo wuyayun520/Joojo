@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintIncludeCycle</key>
+	<string>interactorSystemValidation</string>
+	<key>functionalProgressbarInterval</key>
+	<string>statefulInMemento</string>
+	<key>inkwellOrStructure</key>
+	<string>previewBufferName</string>
+	<key>interfaceNearType</key>
+	<string>gestureActivityTint</string>
+	<key>observerAgainstParameter</key>
+	<string>catalystOutsideAction</string>
+	<key>persistentRadiusDirection</key>
+	<string>awaitVisitorForce</string>
+	<key>utilOrPrototype</key>
+	<string>missedHistogramMargin</string>
+</dict>
+</plist>

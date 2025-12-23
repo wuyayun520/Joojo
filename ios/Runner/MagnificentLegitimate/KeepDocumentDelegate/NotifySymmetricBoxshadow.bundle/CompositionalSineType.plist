@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentScopeHue</key>
+	<string>prismaticContainerState</string>
+	<key>fixedColumnTransparency</key>
+	<string>transitionBeyondTier</string>
+	<key>frameAtPhase</key>
+	<string>euclideanEffectDuration</string>
+	<key>grayscaleBeyondNumber</key>
+	<string>streamLayerColor</string>
+	<key>keyTransitionDirection</key>
+	<string>commandPrototypeAppearance</string>
+	<key>pinchableCapsuleOpacity</key>
+	<string>playbackTypeDirection</string>
+	<key>sequentialTableFlags</key>
+	<string>relationalOperationEdge</string>
+</dict>
+</plist>

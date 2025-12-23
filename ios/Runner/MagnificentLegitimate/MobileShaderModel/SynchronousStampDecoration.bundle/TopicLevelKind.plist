@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionModeCount</key>
+	<string>globalViewValidation</string>
+	<key>greatTitleContrast</key>
+	<string>futureFormDensity</string>
+	<key>localizationAndFramework</key>
+	<string>entityOrFlyweight</string>
+	<key>routerDespiteStyle</key>
+	<string>reusableTableVisible</string>
+	<key>subpixelInsideNumber</key>
+	<string>tableWithSingleton</string>
+	<key>substantialProviderOrigin</key>
+	<string>arithmeticEnvironmentRate</string>
+</dict>
+</plist>

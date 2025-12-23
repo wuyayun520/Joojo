@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStatelessAppearance</key>
+	<string>coordinatorStyleSaturation</string>
+	<key>eagerCatalystCount</key>
+	<string>labelAsContext</string>
+	<key>iconWithComposite</key>
+	<string>displayableTextfieldHue</string>
+	<key>lazySingletonKind</key>
+	<string>touchBesideFramework</string>
+	<key>uniformProviderCenter</key>
+	<string>requiredImageDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableChallengeHue</key>
+	<string>stackAtLayer</string>
+	<key>enabledListenerLeft</key>
+	<string>rowVisitorStyle</string>
+	<key>interfaceFrameworkLeft</key>
+	<string>mapAsMethod</string>
+	<key>mobileCurveDuration</key>
+	<string>mainNotifierVisibility</string>
+	<key>notificationForOperation</key>
+	<string>signAgainstBridge</string>
+	<key>projectOfWork</key>
+	<string>missedGraphSize</string>
+	<key>tangentCompositeVisible</key>
+	<string>sharedUtilType</string>
+</dict>
+</plist>

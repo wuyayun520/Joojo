@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInCommand</key>
+	<string>pinchableCycleVelocity</string>
+	<key>gestureFlyweightSaturation</key>
+	<string>sensorParamContrast</string>
+	<key>getxVersusPlatform</key>
+	<string>subsequentResultFrequency</string>
+	<key>monsterObserverAcceleration</key>
+	<string>builderOfCycle</string>
+	<key>pivotalNavigationMargin</key>
+	<string>declarativeSpecifierType</string>
+	<key>statefulInsideValue</key>
+	<string>retainedTopicTail</string>
+	<key>substantialTextAlignment</key>
+	<string>subscriptionFlyweightDirection</string>
+	<key>threadShapeTheme</key>
+	<string>offsetBesideSingleton</string>
+	<key>unsortedBrushRate</key>
+	<string>futureBeyondCommand</string>
+</dict>
+</plist>

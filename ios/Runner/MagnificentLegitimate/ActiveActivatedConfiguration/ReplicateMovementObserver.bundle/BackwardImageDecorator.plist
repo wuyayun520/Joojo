@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeRowBehavior</key>
+	<string>elasticOffsetDistance</string>
+	<key>threadContextSkewx</key>
+	<string>capsuleExceptFlyweight</string>
+	<key>tickerBesidePhase</key>
+	<string>modelPatternBrightness</string>
+	<key>transitionInsideFunction</key>
+	<string>entropyDecoratorFeedback</string>
+</dict>
+</plist>

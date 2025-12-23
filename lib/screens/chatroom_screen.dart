@@ -2,8 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 import 'package:joojo/models/community_user.dart';
 import 'package:joojo/services/community_service.dart';
+import 'package:joojo/services/vip_service.dart';
 import 'package:joojo/theme/app_theme.dart';
 import 'package:joojo/screens/fullscreen_video_player.dart';
+import 'package:joojo/screens/joojo_vip_screen.dart';
 
 class ChatroomScreen extends StatefulWidget {
   const ChatroomScreen({super.key});
@@ -14,6 +16,7 @@ class ChatroomScreen extends StatefulWidget {
 
 class _ChatroomScreenState extends State<ChatroomScreen> {
   final CommunityService _communityService = CommunityService();
+  final VipService _vipService = VipService();
   final PageController _pageController = PageController();
   List<CommunityUser> _users = [];
   bool _isLoading = true;
@@ -59,6 +62,153 @@ class _ChatroomScreenState extends State<ChatroomScreen> {
     for (var user in _users) {
       _initializeVideo(user);
     }
+  }
+
+  Future<bool> _checkVipAndShowDialog() async {
+    // 每次检查前获取最新的 VIP 状态
+    final isVip = await _vipService.isVip();
+
+    if (isVip) {
+      return true;
+    }
+
+    // 不是 VIP，显示确认对话框
+    final confirmed = await showDialog<bool>(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: const Color(0xFF2D1B4E),
+        title: const Text(
+          'Premium Required',
+          style: TextStyle(color: Colors.white, decoration: TextDecoration.none),
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text(
+              'You need to subscribe to Joojo Premium to access this feature.',
+              style: TextStyle(color: Colors.white70, decoration: TextDecoration.none),
+            ),
+            const SizedBox(height: 16),
+            const Text(
+              'Subscription Plans:',
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 14,
+                fontWeight: FontWeight.bold,
+                decoration: TextDecoration.none,
+              ),
+            ),
+            const SizedBox(height: 8),
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: AppTheme.primaryColor.withOpacity(0.1),
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(
+                  color: AppTheme.primaryColor.withOpacity(0.3),
+                  width: 1,
+                ),
+              ),
+              child: Row(
+                children: [
+                  Icon(
+                    Icons.star,
+                    color: AppTheme.primaryColor,
+                    size: 16,
+                  ),
+                  const SizedBox(width: 8),
+                  const Text(
+                    '\$49.99/month',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 14,
+                      fontWeight: FontWeight.w600,
+                      decoration: TextDecoration.none,
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                    decoration: BoxDecoration(
+                      color: AppTheme.primaryColor,
+                      borderRadius: BorderRadius.circular(4),
+                    ),
+                    child: const Text(
+                      'POPULAR',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 8,
+                        fontWeight: FontWeight.bold,
+                        decoration: TextDecoration.none,
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            const SizedBox(height: 8),
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: AppTheme.primaryColor.withOpacity(0.1),
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(
+                  color: AppTheme.primaryColor.withOpacity(0.3),
+                  width: 1,
+                ),
+              ),
+              child: Row(
+                children: [
+                  Icon(
+                    Icons.star,
+                    color: AppTheme.primaryColor,
+                    size: 16,
+                  ),
+                  const SizedBox(width: 8),
+                  const Text(
+                    '\$12.99/week',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 14,
+                      fontWeight: FontWeight.w600,
+                      decoration: TextDecoration.none,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(false),
+            child: const Text(
+              'Cancel',
+              style: TextStyle(color: Colors.white70, decoration: TextDecoration.none),
+            ),
+          ),
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(true),
+            child: Text(
+              'Subscribe',
+              style: TextStyle(color: AppTheme.primaryColor, decoration: TextDecoration.none),
+            ),
+          ),
+        ],
+      ),
+    );
+
+    // 如果用户确认，跳转到 VIP 订阅页面
+    if (confirmed == true) {
+      await Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => const JoojoVipScreen(),
+        ),
+      );
+    }
+
+    return false;
   }
 
   Future<void> _handleNotInterested(String postId) async {
@@ -289,20 +439,24 @@ class _ChatroomScreenState extends State<ChatroomScreen> {
             right: 20,
             bottom: bottomContentHeight + 20 + tabBarHeight,
             child: GestureDetector(
-              onTap: () {
+              onTap: () async {
                 if (controller.value.isInitialized) {
-                  Navigator.of(context).push(
-                    MaterialPageRoute(
-                      builder: (context) => FullscreenVideoPlayer(
-                        controller: controller,
-                        postId: postId,
-                        userAvatar: user.avatar,
-                        userName: user.displayName,
-                        description: user.post.description,
+                  // 检查 VIP 状态
+                  final hasAccess = await _checkVipAndShowDialog();
+                  if (hasAccess) {
+                    Navigator.of(context).push(
+                      MaterialPageRoute(
+                        builder: (context) => FullscreenVideoPlayer(
+                          controller: controller,
+                          postId: postId,
+                          userAvatar: user.avatar,
+                          userName: user.displayName,
+                          description: user.post.description,
+                        ),
+                        fullscreenDialog: true,
                       ),
-                      fullscreenDialog: true,
-                    ),
-                  );
+                    );
+                  }
                 }
               },
               child: ClipRRect(
@@ -489,15 +643,19 @@ class _ChatroomScreenState extends State<ChatroomScreen> {
 
   Widget _buildReactionButton(String postId, int index, String iconPath, String count, bool isSelected) {
     return GestureDetector(
-      onTap: () {
-        setState(() {
-          final currentSelected = _selectedReactionIndex[postId] ?? -1;
-          if (currentSelected == index) {
-            _selectedReactionIndex[postId] = -1; // Deselect if already selected
-          } else {
-            _selectedReactionIndex[postId] = index;
-          }
-        });
+      onTap: () async {
+        // 检查 VIP 状态
+        final hasAccess = await _checkVipAndShowDialog();
+        if (hasAccess) {
+          setState(() {
+            final currentSelected = _selectedReactionIndex[postId] ?? -1;
+            if (currentSelected == index) {
+              _selectedReactionIndex[postId] = -1; // Deselect if already selected
+            } else {
+              _selectedReactionIndex[postId] = index;
+            }
+          });
+        }
       },
       child: Container(
         height: 46,

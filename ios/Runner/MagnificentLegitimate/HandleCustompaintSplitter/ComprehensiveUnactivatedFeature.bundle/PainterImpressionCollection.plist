@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCatalystHue</key>
+	<string>actionMementoCoord</string>
+	<key>associatedTextSpeed</key>
+	<string>hardCommandScale</string>
+	<key>builderFormSaturation</key>
+	<string>movementValueTint</string>
+	<key>imageLikeStructure</key>
+	<string>capsuleAwayPlatform</string>
+	<key>resourceLikeMode</key>
+	<string>effectAsKind</string>
+	<key>scrollParameterKind</key>
+	<string>compositionalAnimationState</string>
+	<key>singletonDuringVar</key>
+	<string>explicitBatchStatus</string>
+	<key>temporaryStoryboardTint</key>
+	<string>semanticInteractorOrigin</string>
+</dict>
+</plist>

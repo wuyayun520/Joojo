@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonViaLevel</key>
+	<string>tabbarPerCycle</string>
+	<key>collectionBesideKind</key>
+	<string>gridviewParameterBrightness</string>
+	<key>hashMementoSkewy</key>
+	<string>customizedMethodDepth</string>
+	<key>lostAlertInset</key>
+	<string>dynamicSwiftContrast</string>
+</dict>
+</plist>

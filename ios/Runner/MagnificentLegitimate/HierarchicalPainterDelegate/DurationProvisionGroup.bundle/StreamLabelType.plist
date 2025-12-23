@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOrSystem</key>
+	<string>listviewPlatformSaturation</string>
+	<key>configurationForObserver</key>
+	<string>kernelStrategyStatus</string>
+	<key>equalizationSingletonType</key>
+	<string>tensorStoreFeedback</string>
+	<key>intuitiveMonsterTail</key>
+	<string>consultativeBehaviorFrequency</string>
+	<key>responseWithValue</key>
+	<string>mobileTaskBound</string>
+	<key>resultFormLocation</key>
+	<string>cosineCycleOrigin</string>
+	<key>sophisticatedSubpixelBottom</key>
+	<string>prismaticSceneInset</string>
+	<key>topicShapeValidation</key>
+	<string>errorSystemResponse</string>
+	<key>transitionInLevel</key>
+	<string>ignoredStorageSaturation</string>
+</dict>
+</plist>

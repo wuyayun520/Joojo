@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAsMethod</key>
+	<string>gradientWithoutShape</string>
+	<key>logarithmThanComposite</key>
+	<string>methodPerPhase</string>
+	<key>profileFrameworkCount</key>
+	<string>custompaintAndChain</string>
+	<key>tableWithoutType</key>
+	<string>assetForKind</string>
+	<key>temporaryNavigatorOpacity</key>
+	<string>subscriptionAdapterOpacity</string>
+</dict>
+</plist>

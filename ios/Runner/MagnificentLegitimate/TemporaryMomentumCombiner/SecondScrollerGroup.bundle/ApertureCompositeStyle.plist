@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectTierDepth</key>
+	<string>channelBridgeColor</string>
+	<key>interactorMediatorTransparency</key>
+	<string>constResultSaturation</string>
+	<key>mainStateLeft</key>
+	<string>desktopAnimationType</string>
+	<key>queueAlongState</key>
+	<string>hyperbolicSliderOrigin</string>
+	<key>stampActionAlignment</key>
+	<string>iconAgainstPattern</string>
+	<key>switchVariableSkewx</key>
+	<string>currentProviderLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGridSkewx</key>
+	<string>iconVersusStyle</string>
+	<key>cycleThroughPhase</key>
+	<string>workflowThroughChain</string>
+	<key>explicitStoryboardScale</key>
+	<string>localizationBeyondMode</string>
+	<key>futureDuringStructure</key>
+	<string>rowOrCycle</string>
+	<key>listenerContainSingleton</key>
+	<string>lazyStateShade</string>
+	<key>screenTaskAcceleration</key>
+	<string>exceptionSingletonKind</string>
+	<key>storageSingletonAlignment</key>
+	<string>operationTaskVisible</string>
+</dict>
+</plist>

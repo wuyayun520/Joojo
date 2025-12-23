@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLayerTint</key>
+	<string>reducerPerStructure</string>
+	<key>channelOperationTransparency</key>
+	<string>singletonLayerSkewy</string>
+	<key>chartLevelEdge</key>
+	<string>smartCubeSkewx</string>
+	<key>greatCapsuleDirection</key>
+	<string>sliderAmongFacade</string>
+	<key>greatWidgetSize</key>
+	<string>queueFlyweightCount</string>
+	<key>scaffoldThanCycle</key>
+	<string>independentGesturedetectorEdge</string>
+</dict>
+</plist>

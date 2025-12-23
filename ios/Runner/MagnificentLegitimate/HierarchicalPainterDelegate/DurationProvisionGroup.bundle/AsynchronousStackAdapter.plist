@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorSinceActivity</key>
+	<string>metadataOrPattern</string>
+	<key>buttonShapeRight</key>
+	<string>widgetNearCycle</string>
+	<key>diversifiedExponentInterval</key>
+	<string>scrollableSpriteEdge</string>
+	<key>segueStructureBottom</key>
+	<string>statefulAboutPattern</string>
+	<key>tappableInterpolationTag</key>
+	<string>petCompositeTransparency</string>
+</dict>
+</plist>

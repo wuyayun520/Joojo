@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStageFeedback</key>
+	<string>inactiveTitleDistance</string>
+	<key>challengeIncludeDecorator</key>
+	<string>uniformQueueCount</string>
+	<key>equipmentBridgeTail</key>
+	<string>sceneCompositeVelocity</string>
+	<key>resolverAgainstLevel</key>
+	<string>commonInterpolationVisible</string>
+	<key>unaryInterpreterCenter</key>
+	<string>repositoryFormCoord</string>
+</dict>
+</plist>

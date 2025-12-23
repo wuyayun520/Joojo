@@ -3,8 +3,12 @@ import 'package:joojo/screens/privacy_policy_screen.dart';
 import 'package:joojo/screens/terms_of_service_screen.dart';
 import 'package:joojo/screens/about_us_screen.dart';
 import 'package:joojo/screens/game_profile_screen.dart';
+import 'package:joojo/screens/joojo_wallet_screen.dart';
+import 'package:joojo/screens/joojo_vip_screen.dart';
 import 'package:joojo/services/game_profile_service.dart';
 import 'package:joojo/services/user_profile_service.dart';
+import 'package:joojo/services/vip_service.dart';
+import 'package:joojo/theme/app_theme.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:io';
 
@@ -18,6 +22,7 @@ class MeScreen extends StatefulWidget {
 class _MeScreenState extends State<MeScreen> {
   final GameProfileService _profileService = GameProfileService();
   final UserProfileService _userProfileService = UserProfileService();
+  final VipService _vipService = VipService();
   final ImagePicker _imagePicker = ImagePicker();
   String? _coverImagePath;
   String? _avatarImagePath;
@@ -85,6 +90,149 @@ class _MeScreenState extends State<MeScreen> {
   }
 
   Future<void> _editAvatar() async {
+    // 每次点击前获取最新的 VIP 状态
+    final isVip = await _vipService.isVip();
+
+    if (!isVip) {
+      // 不是 VIP，显示确认对话框
+      final confirmed = await showDialog<bool>(
+        context: context,
+        builder: (context) => AlertDialog(
+          backgroundColor: const Color(0xFF2D1B4E),
+          title: const Text(
+            'Premium Required',
+            style: TextStyle(color: Colors.white, decoration: TextDecoration.none),
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'You need to subscribe to Joojo Premium to customize your avatar.',
+                style: TextStyle(color: Colors.white70, decoration: TextDecoration.none),
+              ),
+              const SizedBox(height: 16),
+              const Text(
+                'Subscription Plans:',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 14,
+                  fontWeight: FontWeight.bold,
+                  decoration: TextDecoration.none,
+                ),
+              ),
+              const SizedBox(height: 8),
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: AppTheme.primaryColor.withOpacity(0.1),
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(
+                    color: AppTheme.primaryColor.withOpacity(0.3),
+                    width: 1,
+                  ),
+                ),
+                child: Row(
+                  children: [
+                    Icon(
+                      Icons.star,
+                      color: AppTheme.primaryColor,
+                      size: 16,
+                    ),
+                    const SizedBox(width: 8),
+                    const Text(
+                      '\$49.99/month',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 14,
+                        fontWeight: FontWeight.w600,
+                        decoration: TextDecoration.none,
+                      ),
+                    ),
+                    const SizedBox(width: 8),
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                      decoration: BoxDecoration(
+                        color: AppTheme.primaryColor,
+                        borderRadius: BorderRadius.circular(4),
+                      ),
+                      child: const Text(
+                        'POPULAR',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 8,
+                          fontWeight: FontWeight.bold,
+                          decoration: TextDecoration.none,
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 8),
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: AppTheme.primaryColor.withOpacity(0.1),
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(
+                    color: AppTheme.primaryColor.withOpacity(0.3),
+                    width: 1,
+                  ),
+                ),
+                child: Row(
+                  children: [
+                    Icon(
+                      Icons.star,
+                      color: AppTheme.primaryColor,
+                      size: 16,
+                    ),
+                    const SizedBox(width: 8),
+                    const Text(
+                      '\$12.99/week',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 14,
+                        fontWeight: FontWeight.w600,
+                        decoration: TextDecoration.none,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(color: Colors.white70, decoration: TextDecoration.none),
+              ),
+            ),
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              child: Text(
+                'Subscribe',
+                style: TextStyle(color: AppTheme.primaryColor, decoration: TextDecoration.none),
+              ),
+            ),
+          ],
+        ),
+      );
+
+      // 如果用户确认，跳转到 VIP 订阅页面
+      if (confirmed == true) {
+        await Navigator.of(context).push(
+          MaterialPageRoute(
+            builder: (context) => const JoojoVipScreen(),
+          ),
+        );
+      }
+      return;
+    }
+
+    // 是 VIP，继续编辑头像
     try {
       final XFile? picked = await _imagePicker.pickImage(
         source: ImageSource.gallery,
@@ -258,6 +406,11 @@ class _MeScreenState extends State<MeScreen> {
                   // Four square buttons
                   _buildFourButtons(context),
                   const SizedBox(height: 24),
+                  // Wallet and VIP buttons
+                  _buildWalletAndVipButtons(context),
+                  const SizedBox(height: 24),
+                  // Extra space to prevent content from being covered by tabbar
+                  SizedBox(height: MediaQuery.of(context).padding.bottom + 100),
                 ],
               ),
             ),
@@ -417,6 +570,158 @@ class _MeScreenState extends State<MeScreen> {
       margin: const EdgeInsets.symmetric(horizontal: 16),
       child: GestureDetector(
           onTap: () async {
+            // 每次点击前获取最新的 VIP 状态
+            final isMonthlyVip = await _vipService.isMonthlyVip();
+
+            if (!isMonthlyVip) {
+              // 不是月订阅 VIP，显示确认对话框
+              final confirmed = await showDialog<bool>(
+                context: context,
+                builder: (context) => AlertDialog(
+                  backgroundColor: const Color(0xFF2D1B4E),
+                  title: const Text(
+                    'Premium Required',
+                    style: TextStyle(color: Colors.white, decoration: TextDecoration.none),
+                  ),
+                  content: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      const Text(
+                        'This feature is only available for Monthly Premium subscribers.',
+                        style: TextStyle(color: Colors.white70, decoration: TextDecoration.none),
+                      ),
+                      const SizedBox(height: 16),
+                      const Text(
+                        'Subscription Plans:',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 14,
+                          fontWeight: FontWeight.bold,
+                          decoration: TextDecoration.none,
+                        ),
+                      ),
+                      const SizedBox(height: 8),
+                      Container(
+                        padding: const EdgeInsets.all(12),
+                        decoration: BoxDecoration(
+                          color: AppTheme.primaryColor.withOpacity(0.1),
+                          borderRadius: BorderRadius.circular(8),
+                          border: Border.all(
+                            color: AppTheme.primaryColor.withOpacity(0.3),
+                            width: 1,
+                          ),
+                        ),
+                        child: Row(
+                          children: [
+                            Icon(
+                              Icons.star,
+                              color: AppTheme.primaryColor,
+                              size: 16,
+                            ),
+                            const SizedBox(width: 8),
+                            const Text(
+                              '\$49.99/month',
+                              style: TextStyle(
+                                color: Colors.white,
+                                fontSize: 14,
+                                fontWeight: FontWeight.w600,
+                                decoration: TextDecoration.none,
+                              ),
+                            ),
+                            const SizedBox(width: 8),
+                            Container(
+                              padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                              decoration: BoxDecoration(
+                                color: AppTheme.primaryColor,
+                                borderRadius: BorderRadius.circular(4),
+                              ),
+                              child: const Text(
+                                'REQUIRED',
+                                style: TextStyle(
+                                  color: Colors.white,
+                                  fontSize: 8,
+                                  fontWeight: FontWeight.bold,
+                                  decoration: TextDecoration.none,
+                                ),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                      const SizedBox(height: 8),
+                      Container(
+                        padding: const EdgeInsets.all(12),
+                        decoration: BoxDecoration(
+                          color: AppTheme.primaryColor.withOpacity(0.05),
+                          borderRadius: BorderRadius.circular(8),
+                          border: Border.all(
+                            color: AppTheme.primaryColor.withOpacity(0.1),
+                            width: 1,
+                          ),
+                        ),
+                        child: Row(
+                          children: [
+                            Icon(
+                              Icons.star,
+                              color: Colors.white30,
+                              size: 16,
+                            ),
+                            const SizedBox(width: 8),
+                            Text(
+                              '\$12.99/week',
+                              style: TextStyle(
+                                color: Colors.white30,
+                                fontSize: 14,
+                                fontWeight: FontWeight.w600,
+                                decoration: TextDecoration.none,
+                              ),
+                            ),
+                            const SizedBox(width: 8),
+                            const Text(
+                              '(Not available)',
+                              style: TextStyle(
+                                color: Colors.white30,
+                                fontSize: 10,
+                                decoration: TextDecoration.none,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ],
+                  ),
+                  actions: [
+                    TextButton(
+                      onPressed: () => Navigator.of(context).pop(false),
+                      child: const Text(
+                        'Cancel',
+                        style: TextStyle(color: Colors.white70, decoration: TextDecoration.none),
+                      ),
+                    ),
+                    TextButton(
+                      onPressed: () => Navigator.of(context).pop(true),
+                      child: Text(
+                        'Subscribe',
+                        style: TextStyle(color: AppTheme.primaryColor, decoration: TextDecoration.none),
+                      ),
+                    ),
+                  ],
+                ),
+              );
+
+              // 如果用户确认，跳转到 VIP 订阅页面
+              if (confirmed == true) {
+                await Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (context) => const JoojoVipScreen(),
+                  ),
+                );
+              }
+              return;
+            }
+
+            // 是月订阅 VIP，继续跳转到游戏资料页面
             final result = await Navigator.of(context).push(
               MaterialPageRoute(
                 builder: (context) => const GameProfileScreen(),
@@ -569,6 +874,103 @@ class _MeScreenState extends State<MeScreen> {
               ),
             ],
           ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildWalletAndVipButtons(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 16),
+      child: Container(
+        height: 103,
+        decoration: BoxDecoration(
+          color: const Color(0xFF2D1B4E),
+          borderRadius: BorderRadius.circular(12),
+          border: Border.all(
+            color:const Color(0xFFCC00FF).withOpacity(0.5),
+            width: 2,
+          ),
+        ),
+        child: Row(
+          children: [
+            Expanded(
+              child: GestureDetector(
+                onTap: () {
+                  Navigator.of(context).push(
+                    MaterialPageRoute(
+                      builder: (context) => const WalletScreen(),
+                    ),
+                  );
+                },
+                child: Container(
+                  alignment: Alignment.center,
+                  child: Image.asset(
+                    'assets/joojo_me_wallet.webp',
+                    width: 70,
+                    height: 70,
+                    fit: BoxFit.contain,
+                    errorBuilder: (context, error, stackTrace) {
+                      return Container(
+                        width: 70,
+                        height: 70,
+                        decoration: const BoxDecoration(
+                          color: Color(0xFF2D1B4E),
+                        ),
+                        child: const Center(
+                          child: Icon(
+                            Icons.account_balance_wallet,
+                            color: Colors.white,
+                            size: 40,
+                          ),
+                        ),
+                      );
+                    },
+                  ),
+                ),
+              ),
+            ),
+            Container(
+              width: 2,
+              color: const Color(0xFFCC00FF).withOpacity(0.5),
+            ),
+            Expanded(
+              child: GestureDetector(
+                onTap: () {
+                  Navigator.of(context).push(
+                    MaterialPageRoute(
+                      builder: (context) => const JoojoVipScreen(),
+                    ),
+                  );
+                },
+                child: Container(
+                  alignment: Alignment.center,
+                  child: Image.asset(
+                    'assets/joojo_me_vip.webp',
+                    width: 70,
+                    height: 70,
+                    fit: BoxFit.contain,
+                    errorBuilder: (context, error, stackTrace) {
+                      return Container(
+                        width: 70,
+                        height: 70,
+                        decoration: const BoxDecoration(
+                          color: Color(0xFF2D1B4E),
+                        ),
+                        child: const Center(
+                          child: Icon(
+                            Icons.star,
+                            color: Colors.white,
+                            size: 40,
+                          ),
+                        ),
+                      );
+                    },
+                  ),
+                ),
+              ),
+            ),
+          ],
         ),
       ),
     );

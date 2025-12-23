@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTextRotation</key>
+	<string>notifierPlatformState</string>
+	<key>crudeStatefulInterval</key>
+	<string>greatLabelPosition</string>
+	<key>missedCubeAlignment</key>
+	<string>lostStreamVisibility</string>
+	<key>momentumFrameworkVisibility</key>
+	<string>custompaintViaVisitor</string>
+	<key>promiseAdapterOffset</key>
+	<string>constraintStyleDistance</string>
+	<key>resizableControllerState</key>
+	<string>singleSceneName</string>
+	<key>routeDuringWork</key>
+	<string>painterForSingleton</string>
+	<key>subscriptionSinceKind</key>
+	<string>blocMediatorTint</string>
+</dict>
+</plist>

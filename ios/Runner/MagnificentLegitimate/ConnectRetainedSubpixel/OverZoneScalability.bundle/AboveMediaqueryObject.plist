@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardProxyMode</key>
+	<string>channelsInActivity</string>
+	<key>collectionCompositeContrast</key>
+	<string>bitrateByTask</string>
+	<key>decorationForOperation</key>
+	<string>factoryByActivity</string>
+	<key>intuitiveInjectionAppearance</key>
+	<string>roleModeVisible</string>
+	<key>mobileUsecaseDistance</key>
+	<string>singletonForValue</string>
+	<key>routeInterpreterEdge</key>
+	<string>disparateParticleDensity</string>
+	<key>scrollableMetadataSkewy</key>
+	<string>notifierMethodAppearance</string>
+	<key>sharedBitrateFeedback</key>
+	<string>resourceMethodTension</string>
+</dict>
+</plist>

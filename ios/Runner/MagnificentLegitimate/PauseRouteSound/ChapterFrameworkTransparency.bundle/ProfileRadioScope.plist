@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAboutAction</key>
+	<string>semanticMediaBrightness</string>
+	<key>normalEventFormat</key>
+	<string>interactiveContainerInteraction</string>
+	<key>presenterWithoutSingleton</key>
+	<string>missedGramDelay</string>
+	<key>seamlessCoordinatorBottom</key>
+	<string>webActionInteraction</string>
+	<key>sizeOrWork</key>
+	<string>chapterEnvironmentDirection</string>
+	<key>statelessLayerDuration</key>
+	<string>featureFromMethod</string>
+</dict>
+</plist>

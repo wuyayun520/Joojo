@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncNodeRotation</key>
+	<string>bufferSingletonTag</string>
+	<key>cacheOrSingleton</key>
+	<string>taskIncludeMemento</string>
+	<key>chartTypeTransparency</key>
+	<string>labelParameterInterval</string>
+	<key>cubeBufferOpacity</key>
+	<string>interpolationFlyweightInset</string>
+	<key>firstCubitSpeed</key>
+	<string>routeAboutVisitor</string>
+	<key>functionalLayerSpacing</key>
+	<string>effectContainCommand</string>
+	<key>injectionTempleTransparency</key>
+	<string>routerAsChain</string>
+	<key>logarithmViaFunction</key>
+	<string>routerAndFramework</string>
+	<key>protocolAmongEnvironment</key>
+	<string>touchTierBrightness</string>
+</dict>
+</plist>

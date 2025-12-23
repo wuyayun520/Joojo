@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerUntilDecorator</key>
+	<string>loopContainLevel</string>
+	<key>requiredLabelRight</key>
+	<string>pivotalSlashDirection</string>
+	<key>scaleAboutActivity</key>
+	<string>vectorVariableBorder</string>
+	<key>spriteOrValue</key>
+	<string>mediaqueryExceptMethod</string>
+</dict>
+</plist>

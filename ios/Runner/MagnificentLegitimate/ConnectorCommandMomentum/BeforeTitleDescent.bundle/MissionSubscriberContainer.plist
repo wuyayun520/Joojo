@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionWithoutVisitor</key>
+	<string>boxActionLocation</string>
+	<key>protectedSliderValidation</key>
+	<string>sampleAmongFacade</string>
+	<key>resourceAsStructure</key>
+	<string>cycleOfValue</string>
+</dict>
+</plist>

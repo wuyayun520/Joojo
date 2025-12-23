@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerStrategyMode</key>
+	<string>menuPatternValidation</string>
+	<key>cubitForParameter</key>
+	<string>decorationLayerFormat</string>
+	<key>featureLayerFrequency</key>
+	<string>optionSingletonSkewx</string>
+	<key>positionedNumberDensity</key>
+	<string>firstConstraintPosition</string>
+	<key>retainedCapacitiesDelay</key>
+	<string>textContainLevel</string>
+	<key>specifyTabbarSpacing</key>
+	<string>missedCompletionFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeAnchorResponse</key>
+	<string>resourceAmongBridge</string>
+	<key>isolateVersusVar</key>
+	<string>interfaceVarValidation</string>
+	<key>materialVariableTheme</key>
+	<string>intermediateRadioHead</string>
+	<key>navigatorPrototypeInterval</key>
+	<string>baselineModeInteraction</string>
+	<key>normAwayProxy</key>
+	<string>layoutActivityTint</string>
+	<key>pageviewFlyweightValidation</key>
+	<string>multiplicationTaskAcceleration</string>
+	<key>previewObserverSize</key>
+	<string>handlerByJob</string>
+	<key>sceneInterpreterBrightness</key>
+	<string>taskByDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventAmongActivity</key>
+	<string>retainedFactoryResponse</string>
+	<key>pinchableNotifierMode</key>
+	<string>menuBeyondObserver</string>
+	<key>resultMediatorFeedback</key>
+	<string>builderVersusComposite</string>
+	<key>roleInsideVisitor</key>
+	<string>primaryDecorationTop</string>
+	<key>serviceAroundForm</key>
+	<string>usageThroughBuffer</string>
+	<key>sortedInterpolationStyle</key>
+	<string>localizationContainNumber</string>
+</dict>
+</plist>

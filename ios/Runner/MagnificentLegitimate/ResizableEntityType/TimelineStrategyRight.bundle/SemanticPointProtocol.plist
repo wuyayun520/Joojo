@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorCommandBottom</key>
+	<string>ternaryTaskColor</string>
+	<key>autoUsageKind</key>
+	<string>matrixActivityShade</string>
+	<key>baseStateDirection</key>
+	<string>workflowAtCycle</string>
+	<key>channelProcessStyle</key>
+	<string>keyFutureState</string>
+	<key>interactorNumberVisible</key>
+	<string>concreteBrushScale</string>
+	<key>mediumIsolateSpacing</key>
+	<string>serviceWithProcess</string>
+	<key>statefulInterpreterRight</key>
+	<string>topicFromEnvironment</string>
+</dict>
+</plist>

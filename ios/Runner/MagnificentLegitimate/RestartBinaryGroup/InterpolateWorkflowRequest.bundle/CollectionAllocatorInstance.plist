@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedIsolateBound</key>
+	<string>nativeChecklistVisibility</string>
+	<key>callbackAmongTier</key>
+	<string>navigatorExceptValue</string>
+	<key>documentPhaseKind</key>
+	<string>batchPerAction</string>
+	<key>gateFunctionVisibility</key>
+	<string>containerShapeIndex</string>
+	<key>heapPerComposite</key>
+	<string>subscriptionAboutShape</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGridMomentum</key>
+	<string>lazyResponseRight</string>
+	<key>diffableSubpixelAcceleration</key>
+	<string>activityPatternBound</string>
+	<key>durationAndComposite</key>
+	<string>equalizationFromProcess</string>
+	<key>mediaByProcess</key>
+	<string>mapLevelSkewx</string>
+	<key>queryAtState</key>
+	<string>staticFragmentFrequency</string>
+	<key>textByVar</key>
+	<string>cartesianInteractorType</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateUntilFunction</key>
+	<string>liteScreenTransparency</string>
+	<key>directlyMissionOffset</key>
+	<string>tappableCubitContrast</string>
+	<key>entityFacadeLeft</key>
+	<string>scrollableLayoutType</string>
+	<key>offsetNearEnvironment</key>
+	<string>certificateFacadeDuration</string>
+	<key>opaqueDialogsVisible</key>
+	<string>graphSingletonHue</string>
+	<key>precisionTierIndex</key>
+	<string>popupModeBehavior</string>
+	<key>tweenLevelSpeed</key>
+	<string>logTempleSpacing</string>
+</dict>
+</plist>

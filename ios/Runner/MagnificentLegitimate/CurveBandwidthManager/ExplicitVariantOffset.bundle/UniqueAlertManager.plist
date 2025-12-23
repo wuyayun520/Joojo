@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAndSingleton</key>
+	<string>transitionContainParameter</string>
+	<key>batchAtStage</key>
+	<string>buttonBufferDepth</string>
+	<key>capacitiesLikeType</key>
+	<string>observerEnvironmentDelay</string>
+	<key>coordinatorAndPattern</key>
+	<string>multiplicationMementoBound</string>
+	<key>crudeRoleOrientation</key>
+	<string>interfaceAtContext</string>
+	<key>listenerSystemFeedback</key>
+	<string>symbolWithActivity</string>
+	<key>touchVersusPattern</key>
+	<string>promiseIncludeBuffer</string>
+</dict>
+</plist>

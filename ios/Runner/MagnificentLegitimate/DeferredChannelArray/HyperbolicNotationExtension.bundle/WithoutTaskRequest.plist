@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeBulletDirection</key>
+	<string>sinkAtMemento</string>
+	<key>interactorDespiteMode</key>
+	<string>sceneAlongMediator</string>
+	<key>mediumGridviewStyle</key>
+	<string>managerAtScope</string>
+	<key>operationDecoratorTint</key>
+	<string>progressbarThroughType</string>
+	<key>persistentTopicContrast</key>
+	<string>difficultRouteAppearance</string>
+	<key>significantChannelBottom</key>
+	<string>autoHandlerHead</string>
+</dict>
+</plist>

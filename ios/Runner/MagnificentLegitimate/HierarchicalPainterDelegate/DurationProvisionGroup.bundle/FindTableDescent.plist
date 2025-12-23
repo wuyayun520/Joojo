@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorViaFacade</key>
+	<string>taskParamBehavior</string>
+	<key>fragmentParameterBehavior</key>
+	<string>popupMementoBound</string>
+	<key>radiusOutsideStructure</key>
+	<string>multiPaddingResponse</string>
+	<key>workflowChainValidation</key>
+	<string>semanticTransformerSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferIncludeProxy</key>
+	<string>animationContainOperation</string>
+	<key>diffableLayoutIndex</key>
+	<string>activityForAdapter</string>
+	<key>gesturedetectorNumberMomentum</key>
+	<string>gridLevelPadding</string>
+	<key>granularBaseCoord</key>
+	<string>requestWithInterpreter</string>
+	<key>localizationFacadeSpacing</key>
+	<string>requestFacadePosition</string>
+	<key>marginOfObserver</key>
+	<string>getxActivityOrigin</string>
+	<key>offsetMethodAlignment</key>
+	<string>sensorInStructure</string>
+	<key>pivotalAlertIndex</key>
+	<string>touchFromLevel</string>
+	<key>widgetDespiteState</key>
+	<string>masterAgainstShape</string>
+</dict>
+</plist>

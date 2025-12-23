@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardHandlerVisibility</key>
+	<string>largeAllocatorSize</string>
+	<key>delegateKindType</key>
+	<string>criticalManagerOrientation</string>
+	<key>metadataAtCommand</key>
+	<string>inactiveAppbarKind</string>
+	<key>popupWithVisitor</key>
+	<string>priorityInterpreterDistance</string>
+	<key>sustainableControllerVisible</key>
+	<string>missedWidgetRight</string>
+</dict>
+</plist>

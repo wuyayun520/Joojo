@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFromMode</key>
+	<string>sampleAroundVisitor</string>
+	<key>cubitAndScope</key>
+	<string>eventThanProxy</string>
+	<key>cycleJobStyle</key>
+	<string>capacitiesPatternBound</string>
+	<key>eagerAllocatorKind</key>
+	<string>coordinatorPatternInteraction</string>
+	<key>movementThanTask</key>
+	<string>cubitModeScale</string>
+</dict>
+</plist>

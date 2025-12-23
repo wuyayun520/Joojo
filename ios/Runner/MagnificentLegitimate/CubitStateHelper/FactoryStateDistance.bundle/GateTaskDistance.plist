@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeModelScale</key>
+	<string>layoutBesideTask</string>
+	<key>effectStyleBound</key>
+	<string>drawerStyleForce</string>
+	<key>euclideanSpotKind</key>
+	<string>geometricHistogramLocation</string>
+	<key>providerBesideAction</key>
+	<string>directResponseMargin</string>
+	<key>singletonForMemento</key>
+	<string>nodeAlongMode</string>
+	<key>streamAdapterStyle</key>
+	<string>topicMediatorStatus</string>
+	<key>titleTaskType</key>
+	<string>asyncTempleBorder</string>
+</dict>
+</plist>

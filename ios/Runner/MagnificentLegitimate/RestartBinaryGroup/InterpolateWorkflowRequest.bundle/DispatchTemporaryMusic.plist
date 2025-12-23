@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackVariableTheme</key>
+	<string>taskInFunction</string>
+	<key>checkboxStyleRight</key>
+	<string>canvasMementoOpacity</string>
+	<key>custompaintWorkCount</key>
+	<string>loopCommandStyle</string>
+	<key>instructionInEnvironment</key>
+	<string>slashInterpreterAlignment</string>
+	<key>progressbarWithPrototype</key>
+	<string>descriptionInScope</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAwayCycle</key>
+	<string>nibDespiteAction</string>
+	<key>baseCompositeAppearance</key>
+	<string>ephemeralCanvasTint</string>
+	<key>cacheValuePadding</key>
+	<string>symmetricNavigatorTension</string>
+	<key>delicateTickerState</key>
+	<string>mainCheckboxLeft</string>
+	<key>graphVariableInset</key>
+	<string>dialogsPhaseDirection</string>
+	<key>intermediateIconFrequency</key>
+	<string>signatureSingletonDelay</string>
+	<key>isolateDecoratorDensity</key>
+	<string>widgetVariablePadding</string>
+	<key>normProcessFrequency</key>
+	<string>previewFunctionCoord</string>
+	<key>sampleBeyondStructure</key>
+	<string>requestInJob</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLabelDistance</key>
+	<string>consultativeProjectionBorder</string>
+	<key>interactorStrategyVisible</key>
+	<string>invisibleTextureMode</string>
+	<key>mediaContainShape</key>
+	<string>controllerCycleOrientation</string>
+	<key>paddingVersusFlyweight</key>
+	<string>rowPhasePadding</string>
+	<key>prevCanvasRate</key>
+	<string>channelBridgeValidation</string>
+	<key>publicApertureForce</key>
+	<string>sensorParameterVisible</string>
+	<key>significantTweenBorder</key>
+	<string>uniqueRowTheme</string>
+	<key>transitionBeyondMediator</key>
+	<string>momentumSinceChain</string>
+	<key>usedGraphCount</key>
+	<string>managerOutsideProxy</string>
+</dict>
+</plist>

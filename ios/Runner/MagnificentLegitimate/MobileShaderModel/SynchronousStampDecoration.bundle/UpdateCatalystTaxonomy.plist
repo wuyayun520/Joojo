@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushCycleOrientation</key>
+	<string>baseTempleShape</string>
+	<key>callbackAtSystem</key>
+	<string>geometricSliderInterval</string>
+	<key>cardDespiteTemple</key>
+	<string>imagePrototypeSpeed</string>
+	<key>currentAxisCoord</key>
+	<string>prismaticModulusName</string>
+	<key>customLoopInterval</key>
+	<string>notificationBesideActivity</string>
+	<key>declarativeStampDistance</key>
+	<string>asynchronousConvolutionFeedback</string>
+	<key>ignoredCommandDelay</key>
+	<string>interfaceVarHue</string>
+	<key>resizableDependencyColor</key>
+	<string>temporarySpriteName</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePopupPressure</key>
+	<string>mutableBinaryPressure</string>
+	<key>indicatorOutsideForm</key>
+	<string>chartInsideObserver</string>
+	<key>mediumClipperInteraction</key>
+	<string>storageExceptTask</string>
+	<key>modelWithEnvironment</key>
+	<string>chartWithStrategy</string>
+	<key>parallelSemanticsLeft</key>
+	<string>featureForStrategy</string>
+	<key>signatureForStage</key>
+	<string>controllerWithEnvironment</string>
+	<key>usecaseAmongVariable</key>
+	<string>eventInFunction</string>
+</dict>
+</plist>

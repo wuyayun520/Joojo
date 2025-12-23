@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocWithoutObserver</key>
+	<string>routerSystemRate</string>
+	<key>inactiveLoopOffset</key>
+	<string>localQueryValidation</string>
+	<key>serviceMementoOrientation</key>
+	<string>temporaryTangentPadding</string>
+	<key>skirtAdapterBorder</key>
+	<string>storageProxyFeedback</string>
+	<key>textInsidePrototype</key>
+	<string>mutableAsyncBorder</string>
+	<key>uniqueScaffoldOffset</key>
+	<string>dedicatedDescriptorAlignment</string>
+</dict>
+</plist>

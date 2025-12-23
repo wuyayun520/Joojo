@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialProfileDistance</key>
+	<string>hierarchicalMethodContrast</string>
+	<key>mobileObserverStatus</key>
+	<string>viewAlongMode</string>
+	<key>navigatorCompositeLocation</key>
+	<string>reducerPerForm</string>
+	<key>navigatorParameterValidation</key>
+	<string>responseAboutCommand</string>
+	<key>observerKindOrigin</key>
+	<string>semanticCompleterIndex</string>
+	<key>rowAboutVisitor</key>
+	<string>gridBeyondAdapter</string>
+	<key>timerExceptDecorator</key>
+	<string>contractionTierStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentPositionedFeedback</key>
+	<string>topicPlatformVelocity</string>
+	<key>intermediateBlocState</key>
+	<string>timerAwayStyle</string>
+	<key>metadataFrameworkFrequency</key>
+	<string>easyBaseScale</string>
+	<key>nextGraphVisible</key>
+	<string>staticIsolateInteraction</string>
+	<key>pinchableMethodValidation</key>
+	<string>standaloneErrorBrightness</string>
+	<key>pointBesideWork</key>
+	<string>persistentInjectionBottom</string>
+	<key>providerKindDepth</key>
+	<string>parallelTransitionTheme</string>
+	<key>signaturePlatformDirection</key>
+	<string>asynchronousGridviewSpeed</string>
+	<key>singletonActionState</key>
+	<string>durationAdapterOpacity</string>
+	<key>textContextDirection</key>
+	<string>titleCompositeShade</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsExceptPhase</key>
+	<string>channelsMediatorVisibility</string>
+	<key>consultativeCommandBottom</key>
+	<string>stateViaFlyweight</string>
+	<key>giftChainRotation</key>
+	<string>accessibleTitleDistance</string>
+	<key>giftWithMemento</key>
+	<string>signatureLikeSingleton</string>
+	<key>menuVarTint</key>
+	<string>bulletActivitySkewx</string>
+	<key>protocolLikeType</key>
+	<string>sequentialInterfaceCount</string>
+	<key>routeTypeTag</key>
+	<string>associatedSubpixelOrientation</string>
+</dict>
+</plist>

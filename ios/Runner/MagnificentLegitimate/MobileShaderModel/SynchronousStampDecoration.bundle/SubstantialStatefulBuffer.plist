@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePopupInteraction</key>
+	<string>nativeSlashSpeed</string>
+	<key>buttonKindCenter</key>
+	<string>gestureAtParam</string>
+	<key>curveSingletonHead</key>
+	<string>gramContextDelay</string>
+	<key>effectVariableLocation</key>
+	<string>pinchableReducerBehavior</string>
+	<key>futureScopeContrast</key>
+	<string>relationalTextStatus</string>
+	<key>lostObserverBottom</key>
+	<string>interactorInsideState</string>
+	<key>prevHeroFlags</key>
+	<string>cellWithoutWork</string>
+	<key>progressbarJobRight</key>
+	<string>buttonVisitorBorder</string>
+	<key>skinPrototypeOpacity</key>
+	<string>controllerStateTransparency</string>
+	<key>statelessBesideKind</key>
+	<string>smallSensorStatus</string>
+</dict>
+</plist>

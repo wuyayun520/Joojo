@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoErrorFrequency</key>
+	<string>localizationStructureVisibility</string>
+	<key>greatPresenterDensity</key>
+	<string>criticalDecorationDepth</string>
+	<key>publicMobxInterval</key>
+	<string>repositoryInInterpreter</string>
+	<key>requestInComposite</key>
+	<string>singleGroupFrequency</string>
+	<key>riverpodDespiteShape</key>
+	<string>playbackActivityRotation</string>
+	<key>stampDespiteJob</key>
+	<string>providerStructureAlignment</string>
+	<key>viewObserverState</key>
+	<string>euclideanUnaryPadding</string>
+</dict>
+</plist>

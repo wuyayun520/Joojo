@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentMenuCenter</key>
+	<string>cupertinoTransitionEdge</string>
+	<key>containerBeyondForm</key>
+	<string>skinByDecorator</string>
+	<key>effectStageMargin</key>
+	<string>consumerUntilForm</string>
+	<key>entropyFlyweightName</key>
+	<string>commonRowShape</string>
+	<key>geometricCallbackAcceleration</key>
+	<string>groupLevelAppearance</string>
+	<key>normalStateVisible</key>
+	<string>remainderDuringType</string>
+	<key>rectNearEnvironment</key>
+	<string>requestStrategyDirection</string>
+	<key>relationalRowScale</key>
+	<string>isolateNearTier</string>
+</dict>
+</plist>

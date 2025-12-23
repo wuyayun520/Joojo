@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedStampPosition</key>
+	<string>utilProxyTheme</string>
+	<key>isolateDespiteComposite</key>
+	<string>interfaceAdapterOffset</string>
+	<key>multiTransformerOrientation</key>
+	<string>backwardPointOrigin</string>
+	<key>widgetActionDirection</key>
+	<string>semanticRowHead</string>
+</dict>
+</plist>

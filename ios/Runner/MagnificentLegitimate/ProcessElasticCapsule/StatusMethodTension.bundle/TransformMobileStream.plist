@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonDespiteValue</key>
+	<string>priorityVisitorBrightness</string>
+	<key>columnInParam</key>
+	<string>responsiveChannelDuration</string>
+	<key>delegateObserverRotation</key>
+	<string>previewViaLayer</string>
+	<key>geometricFlexCoord</key>
+	<string>geometricObserverBorder</string>
+	<key>inkwellActivityCenter</key>
+	<string>entitySingletonInterval</string>
+	<key>interactiveRouterOffset</key>
+	<string>webLossShape</string>
+	<key>metadataNearScope</key>
+	<string>greatCapacitiesRotation</string>
+	<key>modelPrototypeMargin</key>
+	<string>notifierCompositeLeft</string>
+	<key>stepFlyweightLeft</key>
+	<string>touchInParameter</string>
+</dict>
+</plist>

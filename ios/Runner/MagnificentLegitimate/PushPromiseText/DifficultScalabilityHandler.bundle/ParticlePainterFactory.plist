@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAnimatedcontainerDistance</key>
+	<string>curveAdapterDepth</string>
+	<key>discardedSessionDuration</key>
+	<string>queueJobTint</string>
+	<key>entityContainPlatform</key>
+	<string>lostThreadDelay</string>
+	<key>localErrorDelay</key>
+	<string>timerValueHue</string>
+	<key>materialCycleTag</key>
+	<string>pointExceptScope</string>
+	<key>popupOutsideInterpreter</key>
+	<string>constDocumentMode</string>
+</dict>
+</plist>

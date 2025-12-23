@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRowRotation</key>
+	<string>custompaintCompositeLeft</string>
+	<key>baseIncludeMediator</key>
+	<string>previewMediatorType</string>
+	<key>metadataFormStyle</key>
+	<string>relationalEffectName</string>
+	<key>optionFromFramework</key>
+	<string>localizationAroundType</string>
+</dict>
+</plist>

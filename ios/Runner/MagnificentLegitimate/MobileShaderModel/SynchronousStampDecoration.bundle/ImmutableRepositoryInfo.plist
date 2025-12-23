@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectTaskBound</key>
+	<string>grayscaleContextEdge</string>
+	<key>graphicBufferAppearance</key>
+	<string>isolateExceptStyle</string>
+	<key>lazyArithmeticStatus</key>
+	<string>localCellTail</string>
+	<key>localizationInEnvironment</key>
+	<string>usageAmongValue</string>
+	<key>modelDuringPrototype</key>
+	<string>singletonNearStyle</string>
+	<key>rectInsideTask</key>
+	<string>graphicBridgeDuration</string>
+	<key>reusablePositionBottom</key>
+	<string>typicalInjectionIndex</string>
+	<key>webMobxInteraction</key>
+	<string>intermediatePetTint</string>
+	<key>widgetCommandKind</key>
+	<string>storageSinceFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandByState</key>
+	<string>extensionAndSingleton</string>
+	<key>cubitLikeFlyweight</key>
+	<string>containerAsMediator</string>
+	<key>dedicatedManagerTail</key>
+	<string>playbackBeyondMode</string>
+	<key>queueAlongMethod</key>
+	<string>columnAwayMediator</string>
+	<key>transformerAtMemento</key>
+	<string>radioInPattern</string>
+	<key>typicalCommandBound</key>
+	<string>offsetBeyondMemento</string>
+</dict>
+</plist>

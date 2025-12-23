@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelParameterOrigin</key>
+	<string>priorEventInteraction</string>
+	<key>observerDuringStrategy</key>
+	<string>radiusBesideComposite</string>
+	<key>observerExceptParam</key>
+	<string>nibAndObserver</string>
+	<key>permanentCatalystPosition</key>
+	<string>asynchronousSessionName</string>
+	<key>spriteWithoutInterpreter</key>
+	<string>mediumWidgetName</string>
+	<key>staticCupertinoCenter</key>
+	<string>difficultDialogsMargin</string>
+	<key>subpixelStyleStyle</key>
+	<string>progressbarLayerTheme</string>
+</dict>
+</plist>

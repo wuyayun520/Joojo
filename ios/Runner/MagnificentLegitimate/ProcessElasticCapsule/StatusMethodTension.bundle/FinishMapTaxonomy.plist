@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellChainDirection</key>
+	<string>sequentialAnimationVelocity</string>
+	<key>intensityInterpreterSize</key>
+	<string>largeTaskPosition</string>
+	<key>mobxCycleBorder</key>
+	<string>methodVersusVariable</string>
+	<key>mobxInVisitor</key>
+	<string>directlyContainerState</string>
+	<key>nodeAgainstAction</key>
+	<string>documentBesideStrategy</string>
+	<key>remainderFormDepth</key>
+	<string>singleCheckboxOffset</string>
+	<key>statefulStageTop</key>
+	<string>sceneTypeTail</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxContainType</key>
+	<string>uniformRadioTag</string>
+	<key>interfaceFrameworkDepth</key>
+	<string>semanticPaddingDepth</string>
+	<key>keyStreamAlignment</key>
+	<string>handlerThroughBridge</string>
+	<key>lostBlocValidation</key>
+	<string>serviceAroundStyle</string>
+	<key>optionViaPattern</key>
+	<string>viewNearDecorator</string>
+</dict>
+</plist>

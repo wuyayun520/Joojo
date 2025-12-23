@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityAgainstFunction</key>
+	<string>pinchableCycleOffset</string>
+	<key>managerBeyondMethod</key>
+	<string>serviceInMethod</string>
+	<key>mediocreReferenceSaturation</key>
+	<string>semanticSpineBehavior</string>
+	<key>queryViaFlyweight</key>
+	<string>progressbarChainRotation</string>
+	<key>reducerWithPlatform</key>
+	<string>unsortedAppbarBound</string>
+</dict>
+</plist>

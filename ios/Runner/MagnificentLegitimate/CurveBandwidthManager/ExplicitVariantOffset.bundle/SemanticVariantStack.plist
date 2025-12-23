@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionLevelMargin</key>
+	<string>featureForStrategy</string>
+	<key>loopForObserver</key>
+	<string>responseForVariable</string>
+	<key>requiredSwiftType</key>
+	<string>invisibleBinaryBehavior</string>
+	<key>tableFlyweightSpacing</key>
+	<string>gramWithStyle</string>
+	<key>textIncludeComposite</key>
+	<string>fixedMarginOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonDimensionStyle</key>
+	<string>protocolThanFacade</string>
+	<key>coordinatorFormEdge</key>
+	<string>largeBorderInterval</string>
+	<key>functionalTickerTag</key>
+	<string>ephemeralContainerCoord</string>
+	<key>grayscaleAgainstWork</key>
+	<string>petOrShape</string>
+	<key>nodeExceptInterpreter</key>
+	<string>normalCycleVisible</string>
+	<key>pageviewThroughFacade</key>
+	<string>visibleGridType</string>
+	<key>sharedBlocMargin</key>
+	<string>sharedSubscriptionOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAdapterAppearance</key>
+	<string>hierarchicalLabelOpacity</string>
+	<key>crucialLossFeedback</key>
+	<string>pageviewForVisitor</string>
+	<key>cycleWorkDepth</key>
+	<string>accordionTextureBrightness</string>
+	<key>previewJobBound</key>
+	<string>draggableResourceFeedback</string>
+	<key>protectedFlexInset</key>
+	<string>aspectratioLevelDirection</string>
+</dict>
+</plist>

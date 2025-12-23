@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSliderOpacity</key>
+	<string>groupTypeInteraction</string>
+	<key>associatedFutureFlags</key>
+	<string>fragmentBeyondNumber</string>
+	<key>clipperModeBorder</key>
+	<string>uniformToolShape</string>
+	<key>equalizationBufferDepth</key>
+	<string>sortedCharacterLeft</string>
+	<key>missedPaddingTag</key>
+	<string>stepFlyweightShade</string>
+	<key>pivotalCupertinoBorder</key>
+	<string>resourceExceptChain</string>
+</dict>
+</plist>

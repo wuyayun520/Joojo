@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDependencyOrigin</key>
+	<string>bulletBeyondMediator</string>
+	<key>asyncTextfieldFlags</key>
+	<string>semanticsMementoMargin</string>
+	<key>canvasAroundComposite</key>
+	<string>dimensionTypeStyle</string>
+	<key>custompaintViaInterpreter</key>
+	<string>consultativeCycleMode</string>
+	<key>draggableAccessoryCenter</key>
+	<string>cupertinoMediaqueryStyle</string>
+	<key>exceptionAtPhase</key>
+	<string>constraintStateTint</string>
+	<key>notificationFrameworkOrigin</key>
+	<string>behaviorAsTask</string>
+	<key>sizeAroundShape</key>
+	<string>layerCycleAlignment</string>
+	<key>webStepTail</key>
+	<string>visibleGroupRate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityContextState</key>
+	<string>usecaseThroughFramework</string>
+	<key>declarativeFragmentBound</key>
+	<string>mediaqueryInKind</string>
+	<key>drawerOfContext</key>
+	<string>smartBorderEdge</string>
+	<key>iconBeyondShape</key>
+	<string>zoneAtProxy</string>
+	<key>managerInterpreterBorder</key>
+	<string>agileObserverDelay</string>
+	<key>navigatorOperationFlags</key>
+	<string>uniformListenerCount</string>
+	<key>sharedQueueTension</key>
+	<string>layoutPerVar</string>
+</dict>
+</plist>

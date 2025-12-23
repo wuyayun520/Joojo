@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanPreviewRotation</key>
+	<string>expandedAndParameter</string>
+	<key>loopStyleContrast</key>
+	<string>subpixelInsidePhase</string>
+	<key>widgetPhaseSaturation</key>
+	<string>sizeForShape</string>
+</dict>
+</plist>

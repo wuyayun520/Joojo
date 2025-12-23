@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackInNumber</key>
+	<string>constraintStateFrequency</string>
+	<key>criticalModulusDensity</key>
+	<string>deferredTaskBehavior</string>
+	<key>currentRouteIndex</key>
+	<string>labelDecoratorAppearance</string>
+	<key>discardedSubscriptionDensity</key>
+	<string>robustLayerSpacing</string>
+	<key>gramForStrategy</key>
+	<string>chapterModeFrequency</string>
+	<key>navigatorOrJob</key>
+	<string>immediateTaskFrequency</string>
+	<key>prismaticClipperStyle</key>
+	<string>advancedEqualizationTheme</string>
+	<key>topicActivityPressure</key>
+	<string>particleSinceVariable</string>
+</dict>
+</plist>

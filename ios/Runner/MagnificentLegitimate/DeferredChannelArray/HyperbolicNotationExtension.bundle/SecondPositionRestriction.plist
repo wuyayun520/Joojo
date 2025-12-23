@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerConsumerForce</key>
+	<string>agileAwaitOffset</string>
+	<key>inheritedViewKind</key>
+	<string>methodParameterInteraction</string>
+	<key>notificationInsideProxy</key>
+	<string>allocatorSystemName</string>
+	<key>staticGroupFeedback</key>
+	<string>touchAlongSystem</string>
+	<key>tensorTaskLocation</key>
+	<string>drawerFromSystem</string>
+	<key>timerBeyondWork</key>
+	<string>commonInteractorCoord</string>
+	<key>zoneCyclePressure</key>
+	<string>errorTierTheme</string>
+</dict>
+</plist>

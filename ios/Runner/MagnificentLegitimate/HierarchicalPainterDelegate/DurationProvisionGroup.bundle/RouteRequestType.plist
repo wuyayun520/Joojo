@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushDuringPrototype</key>
+	<string>cosineSinceCommand</string>
+	<key>controllerNearAdapter</key>
+	<string>imageStageAcceleration</string>
+	<key>customizedNodeBrightness</key>
+	<string>containerBeyondParameter</string>
+	<key>dialogsSingletonName</key>
+	<string>handlerCycleFeedback</string>
+	<key>imperativeSliderBrightness</key>
+	<string>layoutAsLayer</string>
+	<key>masterSinceForm</key>
+	<string>deferredMediaqueryScale</string>
+	<key>mediaExceptStyle</key>
+	<string>cupertinoInterfaceCenter</string>
+	<key>promiseAndStructure</key>
+	<string>semanticAnchorMargin</string>
+	<key>symmetricMethodOffset</key>
+	<string>extensionWithFlyweight</string>
+</dict>
+</plist>

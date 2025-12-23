@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedEffectOpacity</key>
+	<string>independentGridviewAcceleration</string>
+	<key>providerPerStage</key>
+	<string>asyncOutsideMode</string>
+	<key>requestInLevel</key>
+	<string>hashFunctionMargin</string>
+	<key>spriteSinceJob</key>
+	<string>titleStructureSize</string>
+</dict>
+</plist>

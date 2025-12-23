@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationOutsideActivity</key>
+	<string>interactorFrameworkRate</string>
+	<key>decorationActionSpacing</key>
+	<string>multiQueueDelay</string>
+	<key>directMobxInterval</key>
+	<string>skinFlyweightOpacity</string>
+	<key>layerByActivity</key>
+	<string>greatCheckboxBound</string>
+	<key>resizableResultStyle</key>
+	<string>rapidPointBrightness</string>
+	<key>transformerStructureFrequency</key>
+	<string>coordinatorValueSkewx</string>
+	<key>uniformPositionInteraction</key>
+	<string>chartKindDirection</string>
+	<key>workflowMementoDelay</key>
+	<string>commandMediatorTransparency</string>
+</dict>
+</plist>

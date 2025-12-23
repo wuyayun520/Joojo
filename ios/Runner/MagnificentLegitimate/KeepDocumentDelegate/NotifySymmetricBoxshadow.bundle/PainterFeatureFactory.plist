@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonLikePlatform</key>
+	<string>heroFlyweightEdge</string>
+	<key>imageByScope</key>
+	<string>directlyCycleHue</string>
+	<key>lazyBaselineAppearance</key>
+	<string>localizationAlongBuffer</string>
+	<key>mobxOutsideNumber</key>
+	<string>heapAndParameter</string>
+	<key>uniformPopupSkewy</key>
+	<string>resolverJobForce</string>
+</dict>
+</plist>

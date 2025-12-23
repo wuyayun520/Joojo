@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderModeBottom</key>
+	<string>alignmentStructureSkewy</string>
+	<key>compositionalContainerBehavior</key>
+	<string>radioMementoColor</string>
+	<key>lostActivityDensity</key>
+	<string>navigatorStateDirection</string>
+	<key>metadataBufferAlignment</key>
+	<string>typicalDecorationTop</string>
+	<key>missionParamMargin</key>
+	<string>standaloneObserverCount</string>
+	<key>requestFromValue</key>
+	<string>interfaceForStrategy</string>
+	<key>singletonVersusProcess</key>
+	<string>segmentModeDensity</string>
+</dict>
+</plist>

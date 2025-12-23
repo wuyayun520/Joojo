@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetSincePlatform</key>
+	<string>modelVersusForm</string>
+	<key>boxStrategySize</key>
+	<string>protectedAnimationFrequency</string>
+	<key>navigatorMementoInset</key>
+	<string>tabbarAwayState</string>
+	<key>parallelQueueBound</key>
+	<string>retainedMenuShade</string>
+	<key>rectParamOpacity</key>
+	<string>menuNumberFormat</string>
+	<key>rowFromLevel</key>
+	<string>imageIncludeSystem</string>
+	<key>sampleAboutBridge</key>
+	<string>stateLayerVelocity</string>
+	<key>touchScopeType</key>
+	<string>singletonWithActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemInsideVisitor</key>
+	<string>desktopSampleRight</string>
+	<key>greatButtonDirection</key>
+	<string>titleLayerFeedback</string>
+	<key>intensityViaAction</key>
+	<string>intermediateDecorationAcceleration</string>
+	<key>listenerScopeInterval</key>
+	<string>fragmentLayerEdge</string>
+	<key>lossMethodSkewx</key>
+	<string>cardProxyInset</string>
+	<key>navigationValuePressure</key>
+	<string>pivotalLayoutBrightness</string>
+	<key>priorityFromLayer</key>
+	<string>autoInterfaceDensity</string>
+</dict>
+</plist>

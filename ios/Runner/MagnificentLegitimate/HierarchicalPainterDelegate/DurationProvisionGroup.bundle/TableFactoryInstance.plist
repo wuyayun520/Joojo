@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartPhaseLocation</key>
+	<string>commonPreviewScale</string>
+	<key>containerPrototypeOrientation</key>
+	<string>segueModeKind</string>
+	<key>frameSystemAppearance</key>
+	<string>fixedLocalizationAcceleration</string>
+	<key>hashBeyondPlatform</key>
+	<string>checklistPlatformIndex</string>
+	<key>toolAmongVariable</key>
+	<string>lastCardForce</string>
+	<key>transitionChainVelocity</key>
+	<string>threadTierAppearance</string>
+</dict>
+</plist>

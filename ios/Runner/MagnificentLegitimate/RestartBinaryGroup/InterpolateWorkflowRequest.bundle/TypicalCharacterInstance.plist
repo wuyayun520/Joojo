@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStyleTheme</key>
+	<string>usecaseThroughStrategy</string>
+	<key>intermediateExponentAlignment</key>
+	<string>workflowExceptFlyweight</string>
+	<key>layerAgainstAdapter</key>
+	<string>workflowOrMediator</string>
+	<key>liteLoopInteraction</key>
+	<string>petSingletonDistance</string>
+	<key>reducerShapeFlags</key>
+	<string>topicThroughShape</string>
+	<key>symbolAboutFunction</key>
+	<string>assetThroughChain</string>
+	<key>widgetTypeMargin</key>
+	<string>elasticTableLeft</string>
+</dict>
+</plist>

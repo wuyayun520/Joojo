@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBesideBridge</key>
+	<string>mobxThroughEnvironment</string>
+	<key>completionWithStage</key>
+	<string>heapFromPattern</string>
+	<key>discardedProviderVisible</key>
+	<string>navigatorDecoratorPosition</string>
+	<key>gridForSingleton</key>
+	<string>layoutStyleAlignment</string>
+	<key>iconPhaseTheme</key>
+	<string>notificationDespiteLayer</string>
+	<key>managerSystemResponse</key>
+	<string>cubitForFunction</string>
+	<key>masterDespiteProxy</key>
+	<string>logarithmActivityOpacity</string>
+	<key>nodeJobSpeed</key>
+	<string>baseLayerOrientation</string>
+	<key>relationalCardDistance</key>
+	<string>decorationBesideBuffer</string>
+</dict>
+</plist>

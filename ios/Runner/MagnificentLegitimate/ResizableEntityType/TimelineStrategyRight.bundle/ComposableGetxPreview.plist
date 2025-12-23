@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionUntilValue</key>
+	<string>reducerFlyweightOrigin</string>
+	<key>blocPerAction</key>
+	<string>awaitFlyweightEdge</string>
+	<key>delegateBufferTransparency</key>
+	<string>singleStatefulDelay</string>
+	<key>loopStyleSkewy</key>
+	<string>crucialAspectratioDensity</string>
+	<key>relationalMetadataFeedback</key>
+	<string>prismaticRowSpacing</string>
+	<key>richtextPatternDepth</key>
+	<string>matrixActivityType</string>
+	<key>significantGroupOpacity</key>
+	<string>popupAboutTier</string>
+	<key>storageNearTier</key>
+	<string>advancedCertificateAlignment</string>
+	<key>textFrameworkStatus</key>
+	<string>scrollAgainstBridge</string>
+</dict>
+</plist>

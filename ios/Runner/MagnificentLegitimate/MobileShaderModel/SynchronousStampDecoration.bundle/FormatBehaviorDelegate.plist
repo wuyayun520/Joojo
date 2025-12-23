@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardFutureLocation</key>
+	<string>localizationStyleTint</string>
+	<key>crudeServiceFlags</key>
+	<string>resultDespiteFramework</string>
+	<key>nibBridgeContrast</key>
+	<string>pointFacadeBrightness</string>
+	<key>reactiveHistogramIndex</key>
+	<string>secondStateState</string>
+	<key>semanticsCycleHue</key>
+	<string>richtextWorkCoord</string>
+	<key>spineThroughObserver</key>
+	<string>buttonInObserver</string>
+	<key>tensorCapacitiesShape</key>
+	<string>utilAndComposite</string>
+</dict>
+</plist>

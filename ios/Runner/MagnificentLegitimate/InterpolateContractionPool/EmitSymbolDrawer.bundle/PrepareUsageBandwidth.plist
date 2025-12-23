@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertEnvironmentTag</key>
+	<string>skinExceptMediator</string>
+	<key>arithmeticConfigurationCenter</key>
+	<string>synchronousDialogsValidation</string>
+	<key>cardBesideComposite</key>
+	<string>textureDecoratorSpacing</string>
+	<key>coordinatorShapeHue</key>
+	<string>heapParamMode</string>
+	<key>curveInObserver</key>
+	<string>repositoryByScope</string>
+	<key>serviceMethodColor</key>
+	<string>positionedStyleBorder</string>
+</dict>
+</plist>

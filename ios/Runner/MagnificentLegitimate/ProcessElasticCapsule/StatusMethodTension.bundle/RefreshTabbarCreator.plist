@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorNearMediator</key>
+	<string>mediaPerCommand</string>
+	<key>entityKindBrightness</key>
+	<string>rowAndVariable</string>
+	<key>euclideanInstructionAcceleration</key>
+	<string>movementAgainstContext</string>
+	<key>lastLocalizationDirection</key>
+	<string>interactorContextOpacity</string>
+	<key>timerAroundVar</key>
+	<string>indicatorWorkTag</string>
+</dict>
+</plist>

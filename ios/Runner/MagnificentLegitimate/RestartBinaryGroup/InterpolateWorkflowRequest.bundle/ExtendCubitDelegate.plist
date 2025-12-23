@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentAsParameter</key>
+	<string>resourceCycleAlignment</string>
+	<key>exceptionNearLevel</key>
+	<string>constScreenPressure</string>
+	<key>finalModalAlignment</key>
+	<string>cycleVersusComposite</string>
+	<key>kernelDespiteValue</key>
+	<string>rectMethodSkewy</string>
+	<key>localizationOrSingleton</key>
+	<string>singletonPatternForce</string>
+	<key>publicSampleOrigin</key>
+	<string>vectorBesideJob</string>
+	<key>queryStrategyShade</key>
+	<string>significantBehaviorIndex</string>
+	<key>responsiveModulusHue</key>
+	<string>lostDecorationContrast</string>
+</dict>
+</plist>

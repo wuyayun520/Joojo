@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartShapeType</key>
+	<string>equipmentInterpreterTag</string>
+	<key>curveFunctionSaturation</key>
+	<string>alertWithPlatform</string>
+	<key>globalQueueRight</key>
+	<string>usecaseVersusForm</string>
+	<key>iterativeBlocInset</key>
+	<string>repositoryKindAlignment</string>
+	<key>loopContainVar</key>
+	<string>transformerForShape</string>
+	<key>radiusFlyweightOrigin</key>
+	<string>masterSystemVisible</string>
+	<key>rapidLogResponse</key>
+	<string>ternaryStrategyKind</string>
+	<key>significantCanvasFeedback</key>
+	<string>labelBeyondSystem</string>
+</dict>
+</plist>

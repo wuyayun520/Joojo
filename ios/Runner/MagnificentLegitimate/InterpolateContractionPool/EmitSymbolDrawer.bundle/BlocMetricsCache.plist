@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncContainerAppearance</key>
+	<string>widgetOutsideOperation</string>
+	<key>chartPatternContrast</key>
+	<string>callbackDecoratorHue</string>
+	<key>cupertinoStageVisibility</key>
+	<string>viewSinceSingleton</string>
+	<key>curveTypeStyle</key>
+	<string>resizableGemDepth</string>
+	<key>roleKindDepth</key>
+	<string>vectorPrototypeHead</string>
+	<key>stampBridgeInterval</key>
+	<string>awaitStateSkewy</string>
+	<key>synchronousCharacterIndex</key>
+	<string>methodMethodVisibility</string>
+	<key>temporaryTernaryLeft</key>
+	<string>behaviorNumberFlags</string>
+	<key>uniformVectorForce</key>
+	<string>finalChannelsMargin</string>
+</dict>
+</plist>

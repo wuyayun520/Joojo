@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatePerPhase</key>
+	<string>uniformBuilderScale</string>
+	<key>effectBridgeDensity</key>
+	<string>anchorThroughComposite</string>
+	<key>gesturedetectorAroundContext</key>
+	<string>concurrentPresenterBrightness</string>
+	<key>layerPerStage</key>
+	<string>chapterVarTension</string>
+	<key>momentumWithoutVar</key>
+	<string>uniquePopupCoord</string>
+	<key>multiplicationPrototypeMode</key>
+	<string>graphicVisitorRate</string>
+	<key>nativeObserverBound</key>
+	<string>segueValueTheme</string>
+	<key>prevBoxshadowFrequency</key>
+	<string>textfieldCompositeInteraction</string>
+</dict>
+</plist>

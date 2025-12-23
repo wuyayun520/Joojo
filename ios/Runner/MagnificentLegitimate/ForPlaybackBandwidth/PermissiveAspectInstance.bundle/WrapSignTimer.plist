@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistThroughMode</key>
+	<string>uniqueControllerTag</string>
+	<key>effectPerChain</key>
+	<string>eventModeVelocity</string>
+	<key>hashParameterPadding</key>
+	<string>reusableCacheShade</string>
+	<key>layoutShapeLocation</key>
+	<string>capsuleBufferMargin</string>
+	<key>loopBeyondSingleton</key>
+	<string>inheritedLocalizationRate</string>
+	<key>mutableDependencyDistance</key>
+	<string>activatedFeatureState</string>
+	<key>reductionLikeAdapter</key>
+	<string>menuAlongFunction</string>
+	<key>spritePatternPadding</key>
+	<string>serviceExceptJob</string>
+	<key>techniqueTierBottom</key>
+	<string>modelModeMomentum</string>
+</dict>
+</plist>

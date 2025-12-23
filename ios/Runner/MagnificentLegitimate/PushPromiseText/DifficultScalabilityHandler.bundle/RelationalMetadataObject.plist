@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxActivityRotation</key>
+	<string>newestAnimationOpacity</string>
+	<key>convolutionMethodOrigin</key>
+	<string>difficultTransitionVisible</string>
+	<key>equipmentPatternCenter</key>
+	<string>spriteBeyondVariable</string>
+	<key>missedStorageTag</key>
+	<string>materialAtLevel</string>
+	<key>navigatorAdapterLocation</key>
+	<string>ignoredSliderHue</string>
+	<key>repositoryContainSingleton</key>
+	<string>mediaDuringOperation</string>
+	<key>sessionFacadeOffset</key>
+	<string>screenInsideBridge</string>
+	<key>specifyGestureOrientation</key>
+	<string>permissiveAlignmentValidation</string>
+</dict>
+</plist>

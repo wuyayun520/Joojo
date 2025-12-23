@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAroundStrategy</key>
+	<string>mobxDuringAction</string>
+	<key>gradientAlongLayer</key>
+	<string>beginnerWidgetVisibility</string>
+	<key>methodFrameworkColor</key>
+	<string>statePrototypeAppearance</string>
+	<key>pinchableArithmeticDelay</key>
+	<string>viewPrototypeBehavior</string>
+	<key>pointDecoratorMargin</key>
+	<string>constraintTaskRate</string>
+	<key>queueUntilOperation</key>
+	<string>textureByKind</string>
+	<key>workflowAdapterFrequency</key>
+	<string>routePatternHead</string>
+</dict>
+</plist>

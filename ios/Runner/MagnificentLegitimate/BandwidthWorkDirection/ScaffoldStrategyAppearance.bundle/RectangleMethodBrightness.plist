@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionAndFlyweight</key>
+	<string>criticalBufferBottom</string>
+	<key>extensionObserverRotation</key>
+	<string>requiredDurationMode</string>
+	<key>immediateContractionTransparency</key>
+	<string>stateOfLayer</string>
+	<key>modulusWorkBehavior</key>
+	<string>storagePrototypeOffset</string>
+	<key>similarCompositionValidation</key>
+	<string>sliderForCommand</string>
+	<key>streamFunctionColor</key>
+	<string>stateThanProxy</string>
+	<key>webNotificationInset</key>
+	<string>accordionSeguePadding</string>
+</dict>
+</plist>

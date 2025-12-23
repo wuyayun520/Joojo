@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAdapterMomentum</key>
+	<string>transformerContextTag</string>
+	<key>denseGridSaturation</key>
+	<string>priorQueueBrightness</string>
+	<key>intuitiveSampleVisibility</key>
+	<string>resilientMobileFormat</string>
+	<key>momentumCycleDepth</key>
+	<string>rapidTweenBrightness</string>
+	<key>pivotalContainerKind</key>
+	<string>responsiveRadiusPosition</string>
+	<key>respectiveFragmentDepth</key>
+	<string>buttonExceptPlatform</string>
+	<key>sampleCompositeBound</key>
+	<string>ephemeralViewInset</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCoordinatorSpacing</key>
+	<string>histogramFormInteraction</string>
+	<key>asyncForPlatform</key>
+	<string>subtleBlocAppearance</string>
+	<key>baselineOrCommand</key>
+	<string>sinkFacadeBottom</string>
+	<key>cubePerCommand</key>
+	<string>cubitContextBound</string>
+	<key>cursorMediatorResponse</key>
+	<string>flexSingletonSpacing</string>
+	<key>gateCompositeTail</key>
+	<string>buttonActivityBottom</string>
+	<key>invisibleCoordinatorPadding</key>
+	<string>criticalAnimationRotation</string>
+	<key>momentumExceptPlatform</key>
+	<string>isolateAmongFunction</string>
+</dict>
+</plist>

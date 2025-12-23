@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionFrameworkType</key>
+	<string>delegateCompositeVisibility</string>
+	<key>nativeFragmentState</key>
+	<string>compositionKindColor</string>
+	<key>primaryCompleterContrast</key>
+	<string>documentAmongPhase</string>
+	<key>timerContextMargin</key>
+	<string>referenceOutsideContext</string>
+	<key>widgetMediatorFlags</key>
+	<string>screenFrameworkKind</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAgainstStrategy</key>
+	<string>memberPerStrategy</string>
+	<key>entropyFrameworkVelocity</key>
+	<string>iconActivityMomentum</string>
+	<key>entropyStageContrast</key>
+	<string>controllerLikeLayer</string>
+	<key>paddingFormValidation</key>
+	<string>constraintForInterpreter</string>
+	<key>permissiveIconAppearance</key>
+	<string>persistentTextScale</string>
+	<key>presenterForAdapter</key>
+	<string>scrollableInstructionVisible</string>
+	<key>referenceBesideVariable</key>
+	<string>drawerStageInterval</string>
+	<key>rolePhaseBehavior</key>
+	<string>observerInterpreterDelay</string>
+	<key>sinkUntilPattern</key>
+	<string>popupAroundStructure</string>
+</dict>
+</plist>

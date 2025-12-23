@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineShapeState</key>
+	<string>tappableRowMomentum</string>
+	<key>dedicatedAwaitCount</key>
+	<string>gestureShapeForce</string>
+	<key>navigatorOutsideVariable</key>
+	<string>navigatorExceptMemento</string>
+	<key>spritePrototypeSpeed</key>
+	<string>coordinatorContainPattern</string>
+	<key>stackVariableContrast</key>
+	<string>injectionFromFramework</string>
+</dict>
+</plist>

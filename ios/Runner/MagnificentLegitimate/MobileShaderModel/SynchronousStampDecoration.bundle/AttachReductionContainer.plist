@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryAgainstEnvironment</key>
+	<string>particleByObserver</string>
+	<key>compositionPerTask</key>
+	<string>nextDecorationMargin</string>
+	<key>descriptionFormCenter</key>
+	<string>marginAdapterRotation</string>
+	<key>missedRectVelocity</key>
+	<string>tensorGrayscalePosition</string>
+	<key>nativeHistogramAppearance</key>
+	<string>axisInValue</string>
+	<key>observerFacadeLeft</key>
+	<string>mobileAndSystem</string>
+	<key>queueDuringProxy</key>
+	<string>methodAroundPlatform</string>
+</dict>
+</plist>

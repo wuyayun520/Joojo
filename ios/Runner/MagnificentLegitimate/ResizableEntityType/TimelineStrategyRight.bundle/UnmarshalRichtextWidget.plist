@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAspectOrigin</key>
+	<string>challengeNearLevel</string>
+	<key>cubitStageValidation</key>
+	<string>buttonFormHue</string>
+	<key>gridExceptCycle</key>
+	<string>viewCycleState</string>
+	<key>mainLogarithmVisible</key>
+	<string>roleAtDecorator</string>
+	<key>priorityVersusActivity</key>
+	<string>consultativeLayerBrightness</string>
+	<key>resilientZoneTheme</key>
+	<string>controllerCompositeIndex</string>
+	<key>storyboardAdapterOrientation</key>
+	<string>listenerAsBridge</string>
+</dict>
+</plist>

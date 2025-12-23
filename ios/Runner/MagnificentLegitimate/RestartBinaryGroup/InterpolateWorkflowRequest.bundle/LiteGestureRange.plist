@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFrameworkIndex</key>
+	<string>collectionMediatorDirection</string>
+	<key>dialogsOutsideParam</key>
+	<string>sensorActionForce</string>
+	<key>directSliderCoord</key>
+	<string>checkboxMediatorIndex</string>
+	<key>nibInterpreterShade</key>
+	<string>missedServiceBehavior</string>
+	<key>priorityVariableSkewy</key>
+	<string>spineSingletonOffset</string>
+	<key>reusableChartContrast</key>
+	<string>flexibleRowCount</string>
+	<key>widgetFormInteraction</key>
+	<string>iterativeResultTint</string>
+</dict>
+</plist>

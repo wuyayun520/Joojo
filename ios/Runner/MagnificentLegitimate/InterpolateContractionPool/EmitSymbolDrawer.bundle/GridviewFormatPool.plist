@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAboutChain</key>
+	<string>routeSingletonTheme</string>
+	<key>layoutBeyondValue</key>
+	<string>eventExceptPrototype</string>
+	<key>progressbarViaMediator</key>
+	<string>fusedAnimationRate</string>
+	<key>queryUntilPhase</key>
+	<string>screenDespiteMode</string>
+	<key>techniqueAsFramework</key>
+	<string>cartesianSwiftSpeed</string>
+</dict>
+</plist>

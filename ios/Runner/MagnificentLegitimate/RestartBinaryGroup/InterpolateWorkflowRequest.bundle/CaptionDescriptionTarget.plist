@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerProxyPressure</key>
+	<string>viewScopeDuration</string>
+	<key>cupertinoContainerShade</key>
+	<string>assetModeStatus</string>
+	<key>euclideanFrameHue</key>
+	<string>statefulFrameTransparency</string>
+	<key>fixedSpriteEdge</key>
+	<string>activatedCoordinatorDepth</string>
+	<key>lastMemberDirection</key>
+	<string>groupActionDepth</string>
+	<key>resourceMediatorShape</key>
+	<string>sequentialTransitionOpacity</string>
+	<key>segueAsDecorator</key>
+	<string>imageOutsideDecorator</string>
+	<key>sortedEqualizationVisibility</key>
+	<string>localRouteIndex</string>
+</dict>
+</plist>

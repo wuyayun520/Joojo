@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationNearProxy</key>
+	<string>associatedPointSpeed</string>
+	<key>commandWithNumber</key>
+	<string>promiseInterpreterAlignment</string>
+	<key>concurrentDependencyValidation</key>
+	<string>integerDecoratorInset</string>
+	<key>elasticCollectionDepth</key>
+	<string>observerLevelBound</string>
+	<key>intermediateUsageLocation</key>
+	<string>lossDespiteChain</string>
+	<key>mobxAtParam</key>
+	<string>awaitNearJob</string>
+	<key>priorityAboutSingleton</key>
+	<string>cycleMementoFrequency</string>
+	<key>reducerOrJob</key>
+	<string>queueAwayKind</string>
+	<key>segueByCommand</key>
+	<string>interpolationViaPhase</string>
+</dict>
+</plist>

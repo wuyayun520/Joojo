@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateVisitorSpeed</key>
+	<string>matrixByCycle</string>
+	<key>delicateSubpixelMargin</key>
+	<string>asynchronousModulusBorder</string>
+	<key>flexibleGradientType</key>
+	<string>tappableCachePadding</string>
+	<key>geometricFrameVisible</key>
+	<string>scaleAdapterSpeed</string>
+	<key>hashThanActivity</key>
+	<string>specifySubpixelShape</string>
+	<key>scrollableLocalizationScale</key>
+	<string>menuFlyweightIndex</string>
+	<key>semanticDimensionIndex</key>
+	<string>sizedboxAgainstBridge</string>
+	<key>tappableGridviewInset</key>
+	<string>delegateInterpreterPosition</string>
+</dict>
+</plist>

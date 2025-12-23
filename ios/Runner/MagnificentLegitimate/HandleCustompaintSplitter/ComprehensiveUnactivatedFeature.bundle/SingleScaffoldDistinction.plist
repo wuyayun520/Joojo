@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeTaskBehavior</key>
+	<string>binaryLikeParameter</string>
+	<key>draggableGridHead</key>
+	<string>optionLevelSize</string>
+	<key>largeClipperDistance</key>
+	<string>masterInsideShape</string>
+	<key>mediocreTableResponse</key>
+	<string>widgetThroughParam</string>
+	<key>semanticStackForce</key>
+	<string>cellParameterInteraction</string>
+</dict>
+</plist>

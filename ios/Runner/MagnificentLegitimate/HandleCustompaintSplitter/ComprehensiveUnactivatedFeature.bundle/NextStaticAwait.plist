@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAwayFacade</key>
+	<string>logInLayer</string>
+	<key>extensionOrTier</key>
+	<string>factoryAmongMediator</string>
+	<key>injectionFromVisitor</key>
+	<string>modelAtAction</string>
+	<key>progressbarAdapterResponse</key>
+	<string>adaptiveTweenCount</string>
+	<key>resolverViaParameter</key>
+	<string>awaitAtCommand</string>
+	<key>statelessMetadataState</key>
+	<string>newestCallbackState</string>
+</dict>
+</plist>

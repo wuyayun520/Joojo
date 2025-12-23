@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVarOffset</key>
+	<string>particleModeFormat</string>
+	<key>cubitModeEdge</key>
+	<string>multiFeatureBound</string>
+	<key>decorationCompositeRight</key>
+	<string>autoPlateMargin</string>
+	<key>effectViaSingleton</key>
+	<string>textAndSystem</string>
+	<key>lastButtonAppearance</key>
+	<string>queueAlongFramework</string>
+	<key>metadataWithDecorator</key>
+	<string>hyperbolicLoopBehavior</string>
+	<key>tensorLayerEdge</key>
+	<string>anchorActionRate</string>
+	<key>webCapacitiesSkewx</key>
+	<string>animatedcontainerTypeSkewy</string>
+</dict>
+</plist>

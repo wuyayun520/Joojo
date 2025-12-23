@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCallbackBottom</key>
+	<string>managerExceptLevel</string>
+	<key>consumerStateForce</key>
+	<string>inheritedResultSpacing</string>
+	<key>difficultListviewFlags</key>
+	<string>fusedStorageSaturation</string>
+	<key>groupAwayFacade</key>
+	<string>pinchableStatefulColor</string>
+	<key>spineSingletonIndex</key>
+	<string>signatureSinceMethod</string>
+</dict>
+</plist>

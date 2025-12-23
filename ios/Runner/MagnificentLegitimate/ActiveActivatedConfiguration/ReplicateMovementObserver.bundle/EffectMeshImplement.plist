@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnStyleBottom</key>
+	<string>mobileNavigatorResponse</string>
+	<key>cupertinoForContext</key>
+	<string>storageVersusScope</string>
+	<key>localWidgetPadding</key>
+	<string>descriptionDecoratorInset</string>
+	<key>logarithmFromSingleton</key>
+	<string>semanticsContainAction</string>
+	<key>shaderMediatorTheme</key>
+	<string>interactiveSineEdge</string>
+	<key>utilStrategyTension</key>
+	<string>resolverAmongMemento</string>
+</dict>
+</plist>

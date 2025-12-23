@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSignFrequency</key>
+	<string>completerAndOperation</string>
+	<key>completionOutsideState</key>
+	<string>graphDuringStructure</string>
+	<key>dropdownbuttonFrameworkMargin</key>
+	<string>semanticGrayscaleSize</string>
+	<key>eagerChecklistHue</key>
+	<string>tableValueDirection</string>
+	<key>globalVariantAlignment</key>
+	<string>spriteVariableSize</string>
+	<key>interactiveMusicTransparency</key>
+	<string>oldResourceVisibility</string>
+	<key>secondTimerState</key>
+	<string>cartesianBuilderSaturation</string>
+	<key>sizedboxValueDirection</key>
+	<string>timerScopeRate</string>
+	<key>symmetricGraphLocation</key>
+	<string>sliderThanTask</string>
+	<key>visibleRouterSkewx</key>
+	<string>textfieldThroughComposite</string>
+</dict>
+</plist>

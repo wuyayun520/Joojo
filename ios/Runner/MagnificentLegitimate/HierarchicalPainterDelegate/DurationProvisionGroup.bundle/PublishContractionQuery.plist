@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDuringAdapter</key>
+	<string>publicEventInteraction</string>
+	<key>eagerWidgetDelay</key>
+	<string>challengeEnvironmentStyle</string>
+	<key>gridInsideTask</key>
+	<string>easyUnaryState</string>
+	<key>seamlessViewTop</key>
+	<string>cubitTierTransparency</string>
+	<key>statefulManagerBrightness</key>
+	<string>lastCoordinatorLocation</string>
+	<key>taskProxyMomentum</key>
+	<string>responseStateDelay</string>
+</dict>
+</plist>

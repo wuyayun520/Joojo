@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentExceptInterpreter</key>
+	<string>hardCubitBottom</string>
+	<key>resolverOutsideMode</key>
+	<string>semanticLabelCount</string>
+	<key>robustGraphBottom</key>
+	<string>inactiveMediaMode</string>
+	<key>scrollPatternValidation</key>
+	<string>completerBeyondOperation</string>
+	<key>taskStateValidation</key>
+	<string>modelProcessPadding</string>
+	<key>viewParamTransparency</key>
+	<string>stepAsScope</string>
+</dict>
+</plist>

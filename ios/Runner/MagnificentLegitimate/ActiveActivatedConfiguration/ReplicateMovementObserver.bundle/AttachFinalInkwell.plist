@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBridgeTail</key>
+	<string>sizedboxBridgeKind</string>
+	<key>bulletTypeType</key>
+	<string>threadStageMode</string>
+	<key>buttonPerObserver</key>
+	<string>movementAroundPattern</string>
+	<key>concurrentThreadStyle</key>
+	<string>currentMemberCenter</string>
+	<key>effectTypeDelay</key>
+	<string>aspectratioAdapterCenter</string>
+	<key>normWithoutMemento</key>
+	<string>independentDecorationDensity</string>
+	<key>opaqueFutureRate</key>
+	<string>mobxMethodDirection</string>
+</dict>
+</plist>

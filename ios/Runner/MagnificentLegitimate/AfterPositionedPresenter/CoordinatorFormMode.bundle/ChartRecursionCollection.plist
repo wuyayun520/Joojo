@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopGraphicTheme</key>
+	<string>scaleWorkSaturation</string>
+	<key>missedSizedboxAcceleration</key>
+	<string>customFeatureTransparency</string>
+	<key>mobxCommandFrequency</key>
+	<string>arithmeticContextContrast</string>
+	<key>observerWorkStatus</key>
+	<string>reducerActionDuration</string>
+	<key>primaryMemberType</key>
+	<string>globalButtonBorder</string>
+	<key>protocolStateEdge</key>
+	<string>hyperbolicRemainderOrientation</string>
+	<key>sessionVersusSystem</key>
+	<string>anchorAlongForm</string>
+</dict>
+</plist>

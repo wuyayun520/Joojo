@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEntityBound</key>
+	<string>usecasePerSingleton</string>
+	<key>durationByProcess</key>
+	<string>cupertinoStorageFormat</string>
+	<key>gridviewModeTheme</key>
+	<string>equalizationViaParam</string>
+	<key>groupAndPrototype</key>
+	<string>shaderMediatorSaturation</string>
+	<key>normAtActivity</key>
+	<string>zoneFormVisible</string>
+	<key>publicAlertAcceleration</key>
+	<string>resilientExceptionBrightness</string>
+	<key>sophisticatedStepTint</key>
+	<string>sophisticatedCommandAcceleration</string>
+	<key>viewAtState</key>
+	<string>tableOperationDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonIncludeSystem</key>
+	<string>blocCompositeRight</string>
+	<key>canvasViaObserver</key>
+	<string>variantProcessFeedback</string>
+	<key>prevTextureFeedback</key>
+	<string>tensorSwiftVisible</string>
+	<key>textureCompositeForce</key>
+	<string>progressbarAdapterForce</string>
+	<key>utilAwayNumber</key>
+	<string>semanticRadioValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFromProcess</key>
+	<string>flexibleSwitchVelocity</string>
+	<key>buttonInStage</key>
+	<string>managerFlyweightTransparency</string>
+	<key>inheritedInjectionIndex</key>
+	<string>coordinatorBesideBuffer</string>
+	<key>musicWithTask</key>
+	<string>nextBulletTheme</string>
+	<key>popupMementoVisibility</key>
+	<string>mobileMethodDirection</string>
+	<key>reducerByMode</key>
+	<string>spriteCommandColor</string>
+	<key>sliderInterpreterOrigin</key>
+	<string>iterativeAlphaLeft</string>
+	<key>storyboardParameterInset</key>
+	<string>cartesianMultiplicationBottom</string>
+</dict>
+</plist>

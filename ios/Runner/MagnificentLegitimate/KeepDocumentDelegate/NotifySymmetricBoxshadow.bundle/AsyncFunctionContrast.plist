@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAndAction</key>
+	<string>gesturedetectorExceptCommand</string>
+	<key>coordinatorDuringType</key>
+	<string>modulusPerForm</string>
+	<key>cubeTempleSaturation</key>
+	<string>textureAsFramework</string>
+	<key>diffableSymbolVelocity</key>
+	<string>tweenTierInset</string>
+	<key>interactiveTopicInset</key>
+	<string>constraintNearProxy</string>
+</dict>
+</plist>

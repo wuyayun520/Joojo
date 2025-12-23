@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyPageviewVisible</key>
+	<string>cursorDecoratorMode</string>
+	<key>globalTabbarRight</key>
+	<string>cellAmongFacade</string>
+	<key>inheritedGrayscaleIndex</key>
+	<string>dimensionTierContrast</string>
+	<key>logVarForce</key>
+	<string>awaitByTier</string>
+	<key>nativeTangentOpacity</key>
+	<string>mediaqueryJobCenter</string>
+	<key>painterProcessRate</key>
+	<string>normalTextInteraction</string>
+	<key>precisionAboutValue</key>
+	<string>relationalPlateVelocity</string>
+	<key>swiftSinceNumber</key>
+	<string>uniformAssetInset</string>
+	<key>vectorStateInteraction</key>
+	<string>brushWithDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAwayAdapter</key>
+	<string>variantTaskSpeed</string>
+	<key>cardNearPattern</key>
+	<string>asyncScrollBehavior</string>
+	<key>coordinatorStrategyCount</key>
+	<string>easyLabelFrequency</string>
+	<key>ignoredEffectState</key>
+	<string>interpolationVisitorAlignment</string>
+	<key>lastChapterOrientation</key>
+	<string>exceptionBeyondPlatform</string>
+	<key>materialFactoryFrequency</key>
+	<string>resilientRichtextSkewy</string>
+	<key>observerByMemento</key>
+	<string>finalHandlerSaturation</string>
+	<key>pageviewUntilScope</key>
+	<string>dropdownbuttonStateVisible</string>
+	<key>statelessUnaryFeedback</key>
+	<string>buttonVersusState</string>
+</dict>
+</plist>

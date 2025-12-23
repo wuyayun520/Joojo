@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellShapeFrequency</key>
+	<string>ternaryPlatformCenter</string>
+	<key>coordinatorStageAcceleration</key>
+	<string>liteRowAppearance</string>
+	<key>customLossShade</key>
+	<string>intensityBySingleton</string>
+	<key>effectParamOffset</key>
+	<string>relationalFlexShape</string>
+	<key>lossFromFlyweight</key>
+	<string>mediaqueryAwayTier</string>
+	<key>segmentBesideMethod</key>
+	<string>intuitiveSwitchTheme</string>
+</dict>
+</plist>

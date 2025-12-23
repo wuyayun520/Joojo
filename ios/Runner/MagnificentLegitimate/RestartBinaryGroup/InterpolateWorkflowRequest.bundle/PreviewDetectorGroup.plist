@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedLayoutStyle</key>
+	<string>delegateChainSkewy</string>
+	<key>intermediateGraphFormat</key>
+	<string>independentRectDuration</string>
+	<key>lossWorkTransparency</key>
+	<string>sceneModeTint</string>
+	<key>sortedActionForce</key>
+	<string>sortedInteractorRotation</string>
+	<key>storageChainInteraction</key>
+	<string>cosineModeCoord</string>
+	<key>uniqueDelegateAcceleration</key>
+	<string>iterativeProgressbarInset</string>
+	<key>viewWithEnvironment</key>
+	<string>masterLikeJob</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertProcessInteraction</key>
+	<string>handlerFlyweightSpacing</string>
+	<key>assetActionTint</key>
+	<string>transitionValueSaturation</string>
+	<key>controllerBridgeInteraction</key>
+	<string>globalRouterVelocity</string>
+	<key>cursorExceptMemento</key>
+	<string>substantialAnimationVisibility</string>
+	<key>cursorIncludeProcess</key>
+	<string>finalCatalystScale</string>
+	<key>mobxUntilObserver</key>
+	<string>requestStagePosition</string>
+	<key>navigationOutsideVar</key>
+	<string>collectionParameterShape</string>
+	<key>visibleRepositoryState</key>
+	<string>brushForMediator</string>
+</dict>
+</plist>

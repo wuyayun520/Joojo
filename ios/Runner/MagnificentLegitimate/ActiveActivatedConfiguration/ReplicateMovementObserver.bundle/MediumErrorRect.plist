@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLayoutKind</key>
+	<string>accessibleSegmentValidation</string>
+	<key>greatPositionValidation</key>
+	<string>uniformThreadAppearance</string>
+	<key>heroNearFramework</key>
+	<string>opaqueTaskStyle</string>
+	<key>queueNearTask</key>
+	<string>resultViaJob</string>
+	<key>storageStyleSpacing</key>
+	<string>utilStateTag</string>
+	<key>usageOperationForce</key>
+	<string>repositoryChainPadding</string>
+</dict>
+</plist>

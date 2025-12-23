@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGroupVelocity</key>
+	<string>touchPatternSpeed</string>
+	<key>elasticDescriptorSkewy</key>
+	<string>mobxWithoutStyle</string>
+	<key>newestPositionEdge</key>
+	<string>richtextAwayType</string>
+	<key>signatureTaskFrequency</key>
+	<string>geometricAxisPadding</string>
+</dict>
+</plist>
